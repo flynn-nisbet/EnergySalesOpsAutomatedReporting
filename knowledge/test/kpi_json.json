@@ -1,0 +1,4288 @@
+{
+  "overall": {
+    "metrics": {
+      "gross_calls": {
+        "current": 7494.0,
+        "weekday_baseline_mean": 9292.75,
+        "delta_abs": -1798.75,
+        "delta_pct": -0.193564875844072,
+        "kpi_label": "Gross Calls",
+        "current_calls": 7494.0,
+        "weekday_baseline_calls": 9292.75,
+        "calls_delta": -1798.75,
+        "delta_pct_precomputed": -0.193564875844072
+      },
+      "entered_compass_calls_count": {
+        "current": 0.0,
+        "weekday_baseline_mean": 5074.75,
+        "delta_abs": -5074.75,
+        "delta_pct": -1.0,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 0.0,
+        "weekday_baseline_calls": 5074.75,
+        "calls_delta": -5074.75,
+        "delta_pct_precomputed": -1.0
+      },
+      "entered_compass_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.55184823780177,
+        "delta_abs": -0.55184823780177,
+        "delta_pct": -1.0,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 0.0,
+        "weekday_baseline_calls": 5074.75,
+        "calls_delta": -5074.75,
+        "delta_pct_precomputed": -1.0
+      },
+      "any_bot_call_rate_compass": {
+        "current": null,
+        "weekday_baseline_mean": 0.5887197518682443,
+        "delta_abs": null,
+        "delta_pct": null,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 0.0,
+        "weekday_baseline_calls": 5074.75,
+        "calls_delta": -5074.75
+      },
+      "non_bot_compass_calls_count": {
+        "current": 0.0,
+        "weekday_baseline_mean": 2024.25,
+        "delta_abs": -2024.25,
+        "delta_pct": -1.0,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 0.0,
+        "weekday_baseline_calls": 2024.25,
+        "calls_delta": -2024.25,
+        "delta_pct_precomputed": -1.0
+      },
+      "queue_calls": {
+        "current": 897.0,
+        "weekday_baseline_mean": 1210.75,
+        "delta_abs": -313.75,
+        "delta_pct": -0.25913689861656,
+        "kpi_label": "Queue Calls",
+        "current_calls": 7494.0,
+        "weekday_baseline_calls": 9292.75,
+        "calls_delta": -313.75,
+        "delta_pct_precomputed": -0.25913689861656
+      },
+      "queue_to_gross_rate": {
+        "current": 0.11969575660528423,
+        "weekday_baseline_mean": 0.1332816561742578,
+        "delta_abs": -0.013585899568973575,
+        "delta_pct": -0.10193375411850242,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 7494.0,
+        "weekday_baseline_calls": 9292.75,
+        "calls_delta": -1798.75,
+        "delta_pct_precomputed": -0.10193375411850242
+      },
+      "abandonment_rate": {
+        "current": 0.0013344008540165466,
+        "weekday_baseline_mean": 0.0019925643528249525,
+        "delta_abs": -0.0006581634988084058,
+        "delta_pct": -0.33030978290628177,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 897.0,
+        "weekday_baseline_calls": 1210.75,
+        "calls_delta": -313.75,
+        "delta_pct_precomputed": -0.33030978290628177
+      },
+      "net_calls": {
+        "current": 887.0,
+        "weekday_baseline_mean": 1191.5,
+        "delta_abs": -304.5,
+        "delta_pct": -0.2555602182123374,
+        "kpi_label": "Net Calls",
+        "current_calls": 887.0,
+        "weekday_baseline_calls": 1191.5,
+        "calls_delta": -304.5,
+        "delta_pct_precomputed": -0.2555602182123374
+      },
+      "contact_rate": {
+        "current": 0.8602029312288614,
+        "weekday_baseline_mean": 0.8451105521119373,
+        "delta_abs": 0.01509237911692407,
+        "delta_pct": 0.017858467249294317,
+        "kpi_label": "Contact Rate",
+        "current_calls": 887.0,
+        "weekday_baseline_calls": 1191.5,
+        "calls_delta": -304.5,
+        "delta_pct_precomputed": 0.017858467249294317
+      },
+      "credit_rate": {
+        "current": 0.5591882750845547,
+        "weekday_baseline_mean": 0.5246208477411941,
+        "delta_abs": 0.0345674273433606,
+        "delta_pct": 0.06589030438304923,
+        "kpi_label": "Credit Rate",
+        "current_calls": 887.0,
+        "weekday_baseline_calls": 1191.5,
+        "calls_delta": -304.5,
+        "delta_pct_precomputed": 0.06589030438304923
+      },
+      "net_conversion_rate": {
+        "current": 0.3359639233370913,
+        "weekday_baseline_mean": 0.3329286586576742,
+        "delta_abs": 0.0030352646794171156,
+        "delta_pct": 0.009116862127925288,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 887.0,
+        "weekday_baseline_calls": 1191.5,
+        "calls_delta": -304.5,
+        "delta_pct_precomputed": 0.009116862127925288
+      },
+      "orders": {
+        "current": 298.0,
+        "weekday_baseline_mean": 396.5,
+        "delta_abs": -98.5,
+        "delta_pct": -0.2484237074401009,
+        "kpi_label": "Orders",
+        "current_calls": 887.0,
+        "weekday_baseline_calls": 1191.5,
+        "calls_delta": -98.5,
+        "delta_pct_precomputed": -0.2484237074401009
+      },
+      "gross_conversion_rate": {
+        "current": 0.03976514544969309,
+        "weekday_baseline_mean": 0.043673915957988654,
+        "delta_abs": -0.003908770508295564,
+        "delta_pct": -0.08949897032488537,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 7494.0,
+        "weekday_baseline_calls": 9292.75,
+        "calls_delta": -1798.75,
+        "delta_pct_precomputed": -0.08949897032488537
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": null,
+          "weekday_baseline_mean": 0.002134320273065612,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 5074.75,
+          "calls_delta": -5074.75
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": null,
+          "weekday_baseline_mean": 0.020109071880594416,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 1364.5,
+          "calls_delta": -1364.5
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.04154015485019228,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 1303.5,
+          "calls_delta": -1303.5
+        },
+        {
+          "reason": "Address Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.18411412893736623,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 1183.5,
+          "calls_delta": -1183.5
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": null,
+          "weekday_baseline_mean": 0.0831768737166764,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 908.25,
+          "calls_delta": -908.25
+        },
+        {
+          "reason": "Name Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.1624206150424719,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 812.0,
+          "calls_delta": -812.0
+        },
+        {
+          "reason": "DOB Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.03817839073262359,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 660.25,
+          "calls_delta": -660.25
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": null,
+          "weekday_baseline_mean": 0.1618830448070242,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 612.5,
+          "calls_delta": -612.5
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": null,
+          "weekday_baseline_mean": 0.832843399953765,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 612.5,
+          "calls_delta": -612.5
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": null,
+          "weekday_baseline_mean": 0.7245485117074999,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 5074.75,
+          "calls_delta": -5074.75
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": null,
+          "weekday_baseline_mean": 0.02530344066289366,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 1364.5,
+          "calls_delta": -1364.5
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.06979516836327057,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 1303.5,
+          "calls_delta": -1303.5
+        },
+        {
+          "reason": "Address Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.048807918166369174,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 1183.5,
+          "calls_delta": -1183.5
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": null,
+          "weekday_baseline_mean": 0.023099490344386294,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 908.25,
+          "calls_delta": -908.25
+        },
+        {
+          "reason": "Name Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.02353911676471129,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 812.0,
+          "calls_delta": -812.0
+        },
+        {
+          "reason": "DOB Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.03394496936812207,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 660.25,
+          "calls_delta": -660.25
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": null,
+          "weekday_baseline_mean": 0.0012125902992776059,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 612.5,
+          "calls_delta": -612.5
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": null,
+          "weekday_baseline_mean": 0.004060964939933214,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 612.5,
+          "calls_delta": -612.5
+        }
+      ]
+    }
+  },
+  "bucket_aggregator": {
+    "metrics": {
+      "gross_calls": {
+        "current": 422.0,
+        "weekday_baseline_mean": 478.75,
+        "delta_abs": -56.75,
+        "delta_pct": -0.1185378590078329,
+        "kpi_label": "Gross Calls",
+        "current_calls": 422.0,
+        "weekday_baseline_calls": 478.75,
+        "calls_delta": -56.75,
+        "delta_pct_precomputed": -0.1185378590078329
+      },
+      "entered_compass_calls_count": {
+        "current": 0.0,
+        "weekday_baseline_mean": 309.75,
+        "delta_abs": -309.75,
+        "delta_pct": -1.0,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 0.0,
+        "weekday_baseline_calls": 309.75,
+        "calls_delta": -309.75,
+        "delta_pct_precomputed": -1.0
+      },
+      "entered_compass_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.6501051127188505,
+        "delta_abs": -0.6501051127188505,
+        "delta_pct": -1.0,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 0.0,
+        "weekday_baseline_calls": 309.75,
+        "calls_delta": -309.75,
+        "delta_pct_precomputed": -1.0
+      },
+      "any_bot_call_rate_compass": {
+        "current": null,
+        "weekday_baseline_mean": 0.4622787912452239,
+        "delta_abs": null,
+        "delta_pct": null,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 0.0,
+        "weekday_baseline_calls": 309.75,
+        "calls_delta": -309.75
+      },
+      "non_bot_compass_calls_count": {
+        "current": 0.0,
+        "weekday_baseline_mean": 159.25,
+        "delta_abs": -159.25,
+        "delta_pct": -1.0,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 0.0,
+        "weekday_baseline_calls": 159.25,
+        "calls_delta": -159.25,
+        "delta_pct_precomputed": -1.0
+      },
+      "queue_calls": {
+        "current": 115.0,
+        "weekday_baseline_mean": 123.75,
+        "delta_abs": -8.75,
+        "delta_pct": -0.0707070707070707,
+        "kpi_label": "Queue Calls",
+        "current_calls": 422.0,
+        "weekday_baseline_calls": 478.75,
+        "calls_delta": -8.75,
+        "delta_pct_precomputed": -0.0707070707070707
+      },
+      "queue_to_gross_rate": {
+        "current": 0.2725118483412322,
+        "weekday_baseline_mean": 0.26571321952080124,
+        "delta_abs": 0.006798628820430974,
+        "delta_pct": 0.025586340162871524,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 422.0,
+        "weekday_baseline_calls": 478.75,
+        "calls_delta": -56.75,
+        "delta_pct_precomputed": 0.025586340162871524
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.0014541867553594632,
+        "delta_abs": -0.0014541867553594632,
+        "delta_pct": -1.0,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 115.0,
+        "weekday_baseline_calls": 123.75,
+        "calls_delta": -8.75,
+        "delta_pct_precomputed": -1.0
+      },
+      "net_calls": {
+        "current": 115.0,
+        "weekday_baseline_mean": 123.0,
+        "delta_abs": -8.0,
+        "delta_pct": -0.06504065040650407,
+        "kpi_label": "Net Calls",
+        "current_calls": 115.0,
+        "weekday_baseline_calls": 123.0,
+        "calls_delta": -8.0,
+        "delta_pct_precomputed": -0.06504065040650407
+      },
+      "contact_rate": {
+        "current": 0.8347826086956521,
+        "weekday_baseline_mean": 0.8451912988675383,
+        "delta_abs": -0.01040869017188617,
+        "delta_pct": -0.012315188509196261,
+        "kpi_label": "Contact Rate",
+        "current_calls": 115.0,
+        "weekday_baseline_calls": 123.0,
+        "calls_delta": -8.0,
+        "delta_pct_precomputed": -0.012315188509196261
+      },
+      "credit_rate": {
+        "current": 0.6782608695652174,
+        "weekday_baseline_mean": 0.6799127019963966,
+        "delta_abs": -0.0016518324311792787,
+        "delta_pct": -0.002429477234840706,
+        "kpi_label": "Credit Rate",
+        "current_calls": 115.0,
+        "weekday_baseline_calls": 123.0,
+        "calls_delta": -8.0,
+        "delta_pct_precomputed": -0.002429477234840706
+      },
+      "net_conversion_rate": {
+        "current": 0.4260869565217391,
+        "weekday_baseline_mean": 0.4467088636695247,
+        "delta_abs": -0.020621907147785612,
+        "delta_pct": -0.04616408767532695,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 115.0,
+        "weekday_baseline_calls": 123.0,
+        "calls_delta": -8.0,
+        "delta_pct_precomputed": -0.04616408767532695
+      },
+      "orders": {
+        "current": 49.0,
+        "weekday_baseline_mean": 54.75,
+        "delta_abs": -5.75,
+        "delta_pct": -0.1050228310502283,
+        "kpi_label": "Orders",
+        "current_calls": 115.0,
+        "weekday_baseline_calls": 123.0,
+        "calls_delta": -5.75,
+        "delta_pct_precomputed": -0.1050228310502283
+      },
+      "gross_conversion_rate": {
+        "current": 0.11611374407582939,
+        "weekday_baseline_mean": 0.11879044779482376,
+        "delta_abs": -0.0026767037189943665,
+        "delta_pct": -0.022532987867994236,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 422.0,
+        "weekday_baseline_calls": 478.75,
+        "calls_delta": -56.75,
+        "delta_pct_precomputed": -0.022532987867994236
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": null,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 309.75,
+          "calls_delta": -309.75
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": null,
+          "weekday_baseline_mean": 0.02232717845680708,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 130.0,
+          "calls_delta": -130.0
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.025405796277727728,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 123.25,
+          "calls_delta": -123.25
+        },
+        {
+          "reason": "Address Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.16810705901834155,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 120.5,
+          "calls_delta": -120.5
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": null,
+          "weekday_baseline_mean": 0.09400371108550983,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 96.25,
+          "calls_delta": -96.25
+        },
+        {
+          "reason": "Name Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.15757685916876354,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 85.5,
+          "calls_delta": -85.5
+        },
+        {
+          "reason": "DOB Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.03951439906750933,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 69.75,
+          "calls_delta": -69.75
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": null,
+          "weekday_baseline_mean": 0.1701102309014984,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 66.25,
+          "calls_delta": -66.25
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": null,
+          "weekday_baseline_mean": 0.8262665806927045,
+          "delta_pct_points": null,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 66.25,
+          "calls_delta": -66.25
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": null,
+          "weekday_baseline_mean": 0.5703300647654962,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 309.75,
+          "calls_delta": -309.75
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": null,
+          "weekday_baseline_mean": 0.028652890804812682,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 130.0,
+          "calls_delta": -130.0
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.024631006248653307,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 123.25,
+          "calls_delta": -123.25
+        },
+        {
+          "reason": "Address Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.03326634926200982,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 120.5,
+          "calls_delta": -120.5
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": null,
+          "weekday_baseline_mean": 0.01759994421790264,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 96.25,
+          "calls_delta": -96.25
+        },
+        {
+          "reason": "Name Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.022738359108047827,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 85.5,
+          "calls_delta": -85.5
+        },
+        {
+          "reason": "DOB Collection",
+          "current": null,
+          "weekday_baseline_mean": 0.010238095238095239,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 69.75,
+          "calls_delta": -69.75
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": null,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 66.25,
+          "calls_delta": -66.25
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": null,
+          "weekday_baseline_mean": 0.0036231884057971015,
+          "delta_pct_points": null,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 0.0,
+          "weekday_baseline_calls": 66.25,
+          "calls_delta": -66.25
+        }
+      ]
+    }
+  },
+  "bucket_brand_partner": {
+    "metrics": {
+      "gross_calls": {
+        "current": 998.0,
+        "weekday_baseline_mean": 1463.5,
+        "delta_abs": -465.5,
+        "delta_pct": -0.31807311240177655,
+        "kpi_label": "Gross Calls",
+        "current_calls": 998.0,
+        "weekday_baseline_calls": 1463.5,
+        "calls_delta": -465.5,
+        "delta_pct_precomputed": -0.31807311240177655
+      },
+      "entered_compass_calls_count": {
+        "current": 871.0,
+        "weekday_baseline_mean": 999.25,
+        "delta_abs": -128.25,
+        "delta_pct": -0.1283462596947711,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 871.0,
+        "weekday_baseline_calls": 999.25,
+        "calls_delta": -128.25,
+        "delta_pct_precomputed": -0.1283462596947711
+      },
+      "entered_compass_rate": {
+        "current": 0.872745490981964,
+        "weekday_baseline_mean": 0.6875427599504536,
+        "delta_abs": 0.18520273103151041,
+        "delta_pct": 0.2693690368361332,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 871.0,
+        "weekday_baseline_calls": 999.25,
+        "calls_delta": -128.25,
+        "delta_pct_precomputed": 0.2693690368361332
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.22043628013777267,
+        "weekday_baseline_mean": 0.2220393207727457,
+        "delta_abs": -0.0016030406349730464,
+        "delta_pct": -0.007219625016839865,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 871.0,
+        "weekday_baseline_calls": 999.25,
+        "calls_delta": -128.25,
+        "delta_pct_precomputed": -0.007219625016839865
+      },
+      "non_bot_compass_calls_count": {
+        "current": 679.0,
+        "weekday_baseline_mean": 775.0,
+        "delta_abs": -96.0,
+        "delta_pct": -0.12387096774193548,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 679.0,
+        "weekday_baseline_calls": 775.0,
+        "calls_delta": -96.0,
+        "delta_pct_precomputed": -0.12387096774193548
+      },
+      "queue_calls": {
+        "current": 361.0,
+        "weekday_baseline_mean": 524.75,
+        "delta_abs": -163.75,
+        "delta_pct": -0.3120533587422582,
+        "kpi_label": "Queue Calls",
+        "current_calls": 998.0,
+        "weekday_baseline_calls": 1463.5,
+        "calls_delta": -163.75,
+        "delta_pct_precomputed": -0.3120533587422582
+      },
+      "queue_to_gross_rate": {
+        "current": 0.36172344689378755,
+        "weekday_baseline_mean": 0.3626488266095576,
+        "delta_abs": -0.0009253797157700583,
+        "delta_pct": -0.0025517240036912058,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 998.0,
+        "weekday_baseline_calls": 1463.5,
+        "calls_delta": -465.5,
+        "delta_pct_precomputed": -0.0025517240036912058
+      },
+      "abandonment_rate": {
+        "current": 0.006012024048096192,
+        "weekday_baseline_mean": 0.007748485536382944,
+        "delta_abs": -0.001736461488286752,
+        "delta_pct": -0.2241033399537513,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 361.0,
+        "weekday_baseline_calls": 524.75,
+        "calls_delta": -163.75,
+        "delta_pct_precomputed": -0.2241033399537513
+      },
+      "net_calls": {
+        "current": 355.0,
+        "weekday_baseline_mean": 513.25,
+        "delta_abs": -158.25,
+        "delta_pct": -0.30832927423283,
+        "kpi_label": "Net Calls",
+        "current_calls": 355.0,
+        "weekday_baseline_calls": 513.25,
+        "calls_delta": -158.25,
+        "delta_pct_precomputed": -0.30832927423283
+      },
+      "contact_rate": {
+        "current": 0.8647887323943662,
+        "weekday_baseline_mean": 0.8377153941387863,
+        "delta_abs": 0.027073338255579893,
+        "delta_pct": 0.03231806225002305,
+        "kpi_label": "Contact Rate",
+        "current_calls": 355.0,
+        "weekday_baseline_calls": 513.25,
+        "calls_delta": -158.25,
+        "delta_pct_precomputed": 0.03231806225002305
+      },
+      "credit_rate": {
+        "current": 0.43661971830985913,
+        "weekday_baseline_mean": 0.4189507628583921,
+        "delta_abs": 0.017668955451467017,
+        "delta_pct": 0.04217430070043632,
+        "kpi_label": "Credit Rate",
+        "current_calls": 355.0,
+        "weekday_baseline_calls": 513.25,
+        "calls_delta": -158.25,
+        "delta_pct_precomputed": 0.04217430070043632
+      },
+      "net_conversion_rate": {
+        "current": 0.2563380281690141,
+        "weekday_baseline_mean": 0.26078629850697943,
+        "delta_abs": -0.004448270337965354,
+        "delta_pct": -0.01705714741699248,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 355.0,
+        "weekday_baseline_calls": 513.25,
+        "calls_delta": -158.25,
+        "delta_pct_precomputed": -0.01705714741699248
+      },
+      "orders": {
+        "current": 91.0,
+        "weekday_baseline_mean": 133.75,
+        "delta_abs": -42.75,
+        "delta_pct": -0.31962616822429907,
+        "kpi_label": "Orders",
+        "current_calls": 355.0,
+        "weekday_baseline_calls": 513.25,
+        "calls_delta": -42.75,
+        "delta_pct_precomputed": -0.31962616822429907
+      },
+      "gross_conversion_rate": {
+        "current": 0.09118236472945891,
+        "weekday_baseline_mean": 0.09278715838448677,
+        "delta_abs": -0.0016047936550278585,
+        "delta_pct": -0.017295428408077712,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 998.0,
+        "weekday_baseline_calls": 1463.5,
+        "calls_delta": -465.5,
+        "delta_pct_precomputed": -0.017295428408077712
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.008036739380022962,
+          "weekday_baseline_mean": 0.0072930732284870615,
+          "delta_pct_points": 0.0007436661515359006,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 999.25,
+          "calls_delta": -128.25,
+          "delta_pct_precomputed": 0.10196883100406949
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0044943820224719105,
+          "weekday_baseline_mean": 0.010416176270961188,
+          "delta_pct_points": -0.005921794248489278,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 628.75,
+          "calls_delta": 242.25,
+          "delta_pct_precomputed": -0.5685190125860672
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.06338028169014084,
+          "weekday_baseline_mean": 0.053046306689926145,
+          "delta_pct_points": 0.010333975000214699,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 608.75,
+          "calls_delta": 262.25,
+          "delta_pct_precomputed": 0.19481045232084349
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.18598382749326145,
+          "weekday_baseline_mean": 0.1951145025474347,
+          "delta_pct_points": -0.009130675054173254,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 521.5,
+          "calls_delta": 349.5,
+          "delta_pct_precomputed": -0.04679649608287562
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.06382978723404255,
+          "weekday_baseline_mean": 0.07484493192204927,
+          "delta_pct_points": -0.011015144688006726,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 386.25,
+          "calls_delta": 484.75,
+          "delta_pct_precomputed": -0.14717288672904344
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.14942528735632185,
+          "weekday_baseline_mean": 0.16577448477098278,
+          "delta_pct_points": -0.016349197414660926,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 347.5,
+          "calls_delta": 523.5,
+          "delta_pct_precomputed": -0.09862312307739832
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.04205607476635514,
+          "weekday_baseline_mean": 0.04927343378724991,
+          "delta_pct_points": -0.007217359020894772,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 281.25,
+          "calls_delta": 589.75,
+          "delta_pct_precomputed": -0.1464756658132957
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.17098445595854922,
+          "weekday_baseline_mean": 0.14770118640564434,
+          "delta_pct_points": 0.023283269552904884,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 253.5,
+          "calls_delta": 617.5,
+          "delta_pct_precomputed": 0.15763766100673057
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.8238341968911918,
+          "weekday_baseline_mean": 0.8454817927017967,
+          "delta_pct_points": -0.021647595810604936,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 253.5,
+          "calls_delta": 617.5,
+          "delta_pct_precomputed": -0.02560385805757983
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.48105625717566014,
+          "weekday_baseline_mean": 0.36181811836084843,
+          "delta_pct_points": 0.11923813881481171,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 999.25,
+          "calls_delta": -128.25,
+          "delta_pct_precomputed": 0.3295527027640256
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.038202247191011236,
+          "weekday_baseline_mean": 0.022320848237367533,
+          "delta_pct_points": 0.015881398953643704,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 628.75,
+          "calls_delta": 242.25,
+          "delta_pct_precomputed": 0.7115051715219546
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.07511737089201878,
+          "weekday_baseline_mean": 0.09719219509612002,
+          "delta_pct_points": -0.022074824204101243,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 608.75,
+          "calls_delta": 262.25,
+          "delta_pct_precomputed": -0.22712548247593273
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.05390835579514825,
+          "weekday_baseline_mean": 0.06454411367702265,
+          "delta_pct_points": -0.010635757881874396,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 521.5,
+          "calls_delta": 349.5,
+          "delta_pct_precomputed": -0.1647827706658968
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.010638297872340425,
+          "weekday_baseline_mean": 0.025530074218498892,
+          "delta_pct_points": -0.014891776346158467,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 386.25,
+          "calls_delta": 484.75,
+          "delta_pct_precomputed": -0.5833032923722565
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.03065134099616858,
+          "weekday_baseline_mean": 0.02426252117869187,
+          "delta_pct_points": 0.006388819817476712,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 347.5,
+          "calls_delta": 523.5,
+          "delta_pct_precomputed": 0.2633205251186995
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.056074766355140186,
+          "weekday_baseline_mean": 0.04876774789473995,
+          "delta_pct_points": 0.007307018460400237,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 281.25,
+          "calls_delta": 589.75,
+          "delta_pct_precomputed": 0.14983301004942176
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.002872659176029963,
+          "delta_pct_points": -0.002872659176029963,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 253.5,
+          "calls_delta": 617.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.0051813471502590676,
+          "weekday_baseline_mean": 0.003944361716529037,
+          "delta_pct_points": 0.0012369854337300305,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 871.0,
+          "weekday_baseline_calls": 253.5,
+          "calls_delta": 617.5,
+          "delta_pct_precomputed": 0.31360851834312853
+        }
+      ]
+    }
+  },
+  "bucket_competitor": {
+    "metrics": {
+      "gross_calls": {
+        "current": 162.0,
+        "weekday_baseline_mean": 302.25,
+        "delta_abs": -140.25,
+        "delta_pct": -0.4640198511166253,
+        "kpi_label": "Gross Calls",
+        "current_calls": 162.0,
+        "weekday_baseline_calls": 302.25,
+        "calls_delta": -140.25,
+        "delta_pct_precomputed": -0.4640198511166253
+      },
+      "entered_compass_calls_count": {
+        "current": 135.0,
+        "weekday_baseline_mean": 178.75,
+        "delta_abs": -43.75,
+        "delta_pct": -0.24475524475524477,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 135.0,
+        "weekday_baseline_calls": 178.75,
+        "calls_delta": -43.75,
+        "delta_pct_precomputed": -0.24475524475524477
+      },
+      "entered_compass_rate": {
+        "current": 0.8333333333333334,
+        "weekday_baseline_mean": 0.5982835222359344,
+        "delta_abs": 0.23504981109739898,
+        "delta_pct": 0.39287361654046454,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 135.0,
+        "weekday_baseline_calls": 178.75,
+        "calls_delta": -43.75,
+        "delta_pct_precomputed": 0.39287361654046454
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.2740740740740741,
+        "weekday_baseline_mean": 0.29655390399901493,
+        "delta_abs": -0.022479829924940853,
+        "delta_pct": -0.07580352044536066,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 135.0,
+        "weekday_baseline_calls": 178.75,
+        "calls_delta": -43.75,
+        "delta_pct_precomputed": -0.07580352044536066
+      },
+      "non_bot_compass_calls_count": {
+        "current": 98.0,
+        "weekday_baseline_mean": 123.25,
+        "delta_abs": -25.25,
+        "delta_pct": -0.20486815415821502,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 98.0,
+        "weekday_baseline_calls": 123.25,
+        "calls_delta": -25.25,
+        "delta_pct_precomputed": -0.20486815415821502
+      },
+      "queue_calls": {
+        "current": 40.0,
+        "weekday_baseline_mean": 75.25,
+        "delta_abs": -35.25,
+        "delta_pct": -0.4684385382059801,
+        "kpi_label": "Queue Calls",
+        "current_calls": 162.0,
+        "weekday_baseline_calls": 302.25,
+        "calls_delta": -35.25,
+        "delta_pct_precomputed": -0.4684385382059801
+      },
+      "queue_to_gross_rate": {
+        "current": 0.24691358024691357,
+        "weekday_baseline_mean": 0.25460599124704464,
+        "delta_abs": -0.007692411000131072,
+        "delta_pct": -0.030213000732834727,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 162.0,
+        "weekday_baseline_calls": 302.25,
+        "calls_delta": -140.25,
+        "delta_pct_precomputed": -0.030213000732834727
+      },
+      "abandonment_rate": {
+        "current": 0.006172839506172839,
+        "weekday_baseline_mean": 0.0034820104271535432,
+        "delta_abs": 0.002690829079019296,
+        "delta_pct": 0.7727803047445155,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 40.0,
+        "weekday_baseline_calls": 75.25,
+        "calls_delta": -35.25,
+        "delta_pct_precomputed": 0.7727803047445155
+      },
+      "net_calls": {
+        "current": 39.0,
+        "weekday_baseline_mean": 74.25,
+        "delta_abs": -35.25,
+        "delta_pct": -0.47474747474747475,
+        "kpi_label": "Net Calls",
+        "current_calls": 39.0,
+        "weekday_baseline_calls": 74.25,
+        "calls_delta": -35.25,
+        "delta_pct_precomputed": -0.47474747474747475
+      },
+      "contact_rate": {
+        "current": 0.8717948717948718,
+        "weekday_baseline_mean": 0.8132130365962446,
+        "delta_abs": 0.05858183519862725,
+        "delta_pct": 0.07203750132170199,
+        "kpi_label": "Contact Rate",
+        "current_calls": 39.0,
+        "weekday_baseline_calls": 74.25,
+        "calls_delta": -35.25,
+        "delta_pct_precomputed": 0.07203750132170199
+      },
+      "credit_rate": {
+        "current": 0.48717948717948717,
+        "weekday_baseline_mean": 0.43236507582515615,
+        "delta_abs": 0.054814411354331016,
+        "delta_pct": 0.1267780734827375,
+        "kpi_label": "Credit Rate",
+        "current_calls": 39.0,
+        "weekday_baseline_calls": 74.25,
+        "calls_delta": -35.25,
+        "delta_pct_precomputed": 0.1267780734827375
+      },
+      "net_conversion_rate": {
+        "current": 0.38461538461538464,
+        "weekday_baseline_mean": 0.2703206250951894,
+        "delta_abs": 0.11429475952019524,
+        "delta_pct": 0.42281183494580943,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 39.0,
+        "weekday_baseline_calls": 74.25,
+        "calls_delta": -35.25,
+        "delta_pct_precomputed": 0.42281183494580943
+      },
+      "orders": {
+        "current": 15.0,
+        "weekday_baseline_mean": 20.5,
+        "delta_abs": -5.5,
+        "delta_pct": -0.2682926829268293,
+        "kpi_label": "Orders",
+        "current_calls": 39.0,
+        "weekday_baseline_calls": 74.25,
+        "calls_delta": -5.5,
+        "delta_pct_precomputed": -0.2682926829268293
+      },
+      "gross_conversion_rate": {
+        "current": 0.09259259259259259,
+        "weekday_baseline_mean": 0.06663027768214146,
+        "delta_abs": 0.02596231491045113,
+        "delta_pct": 0.3896474067585894,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 162.0,
+        "weekday_baseline_calls": 302.25,
+        "calls_delta": -140.25,
+        "delta_pct_precomputed": 0.3896474067585894
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.007407407407407408,
+          "weekday_baseline_mean": 0.00460600081365631,
+          "delta_pct_points": 0.002801406593751098,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 178.75,
+          "calls_delta": -43.75,
+          "delta_pct_precomputed": 0.6082080110462033
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0129735699311171,
+          "delta_pct_points": -0.0129735699311171,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 95.75,
+          "calls_delta": 39.25,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.07205136649011913,
+          "delta_pct_points": -0.07205136649011913,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 90.5,
+          "calls_delta": 44.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.26666666666666666,
+          "weekday_baseline_mean": 0.1911626096221621,
+          "delta_pct_points": 0.07550405704450455,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 74.75,
+          "calls_delta": 60.25,
+          "delta_pct_precomputed": 0.39497293531271777
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.16666666666666666,
+          "weekday_baseline_mean": 0.057184693172539415,
+          "delta_pct_points": 0.10948197349412725,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 54.0,
+          "calls_delta": 81.0,
+          "delta_pct_precomputed": 1.9145328482185762
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.13043478260869565,
+          "weekday_baseline_mean": 0.176020019998261,
+          "delta_pct_points": -0.04558523738956535,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 49.0,
+          "calls_delta": 86.0,
+          "delta_pct_precomputed": -0.2589775719262827
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.05,
+          "weekday_baseline_mean": 0.06597222222222222,
+          "delta_pct_points": -0.01597222222222222,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 38.5,
+          "calls_delta": 96.5,
+          "delta_pct_precomputed": -0.2421052631578947
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.16832586273375746,
+          "delta_pct_points": -0.16832586273375746,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 34.5,
+          "calls_delta": 100.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 1.0,
+          "weekday_baseline_mean": 0.8316741372662425,
+          "delta_pct_points": 0.1683258627337575,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 34.5,
+          "calls_delta": 100.5,
+          "delta_pct_precomputed": 0.20239400889277817
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.5851851851851851,
+          "weekday_baseline_mean": 0.45560210455502076,
+          "delta_pct_points": 0.12958308063016438,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 178.75,
+          "calls_delta": -43.75,
+          "delta_pct_precomputed": 0.28442160239081005
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.01818181818181818,
+          "weekday_baseline_mean": 0.0428586403114705,
+          "delta_pct_points": -0.024676822129652318,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 95.75,
+          "calls_delta": 39.25,
+          "delta_pct_precomputed": -0.5757723985249229
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.16666666666666666,
+          "weekday_baseline_mean": 0.11664867650332209,
+          "delta_pct_points": 0.05001799016334457,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 90.5,
+          "calls_delta": 44.5,
+          "delta_pct_precomputed": 0.42879175025976474
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.06666666666666667,
+          "weekday_baseline_mean": 0.0851825670027047,
+          "delta_pct_points": -0.018515900336038033,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 74.75,
+          "calls_delta": 60.25,
+          "delta_pct_precomputed": -0.21736724998496607
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.06666666666666667,
+          "weekday_baseline_mean": 0.04007285974499089,
+          "delta_pct_points": 0.026593806921675775,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 54.0,
+          "calls_delta": 81.0,
+          "delta_pct_precomputed": 0.6636363636363637
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.03870315624728284,
+          "delta_pct_points": -0.03870315624728284,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 49.0,
+          "calls_delta": 86.0,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.05,
+          "weekday_baseline_mean": 0.03888888888888889,
+          "delta_pct_points": 0.011111111111111113,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 38.5,
+          "calls_delta": 96.5,
+          "delta_pct_precomputed": 0.28571428571428575
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 34.5,
+          "calls_delta": 100.5
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 135.0,
+          "weekday_baseline_calls": 34.5,
+          "calls_delta": 100.5
+        }
+      ]
+    }
+  },
+  "bucket_generic": {
+    "metrics": {
+      "gross_calls": {
+        "current": 323.0,
+        "weekday_baseline_mean": 438.25,
+        "delta_abs": -115.25,
+        "delta_pct": -0.2629777524244153,
+        "kpi_label": "Gross Calls",
+        "current_calls": 323.0,
+        "weekday_baseline_calls": 438.25,
+        "calls_delta": -115.25,
+        "delta_pct_precomputed": -0.2629777524244153
+      },
+      "entered_compass_calls_count": {
+        "current": 288.0,
+        "weekday_baseline_mean": 277.75,
+        "delta_abs": 10.25,
+        "delta_pct": 0.0369036903690369,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 288.0,
+        "weekday_baseline_calls": 277.75,
+        "calls_delta": 10.25,
+        "delta_pct_precomputed": 0.0369036903690369
+      },
+      "entered_compass_rate": {
+        "current": 0.891640866873065,
+        "weekday_baseline_mean": 0.6439623443611633,
+        "delta_abs": 0.2476785225119017,
+        "delta_pct": 0.3846164681532875,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 288.0,
+        "weekday_baseline_calls": 277.75,
+        "calls_delta": 10.25,
+        "delta_pct_precomputed": 0.3846164681532875
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.4027777777777778,
+        "weekday_baseline_mean": 0.39342958946518874,
+        "delta_abs": 0.009348188312589045,
+        "delta_pct": 0.02376076574539442,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 288.0,
+        "weekday_baseline_calls": 277.75,
+        "calls_delta": 10.25,
+        "delta_pct_precomputed": 0.02376076574539442
+      },
+      "non_bot_compass_calls_count": {
+        "current": 172.0,
+        "weekday_baseline_mean": 166.75,
+        "delta_abs": 5.25,
+        "delta_pct": 0.031484257871064465,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 172.0,
+        "weekday_baseline_calls": 166.75,
+        "calls_delta": 5.25,
+        "delta_pct_precomputed": 0.031484257871064465
+      },
+      "queue_calls": {
+        "current": 92.0,
+        "weekday_baseline_mean": 122.5,
+        "delta_abs": -30.5,
+        "delta_pct": -0.24897959183673468,
+        "kpi_label": "Queue Calls",
+        "current_calls": 323.0,
+        "weekday_baseline_calls": 438.25,
+        "calls_delta": -30.5,
+        "delta_pct_precomputed": -0.24897959183673468
+      },
+      "queue_to_gross_rate": {
+        "current": 0.2848297213622291,
+        "weekday_baseline_mean": 0.29041607984351214,
+        "delta_abs": -0.005586358481283027,
+        "delta_pct": -0.019235706522494143,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 323.0,
+        "weekday_baseline_calls": 438.25,
+        "calls_delta": -115.25,
+        "delta_pct_precomputed": -0.019235706522494143
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.0026582337565347275,
+        "delta_abs": -0.0026582337565347275,
+        "delta_pct": -1.0,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 92.0,
+        "weekday_baseline_calls": 122.5,
+        "calls_delta": -30.5,
+        "delta_pct_precomputed": -1.0
+      },
+      "net_calls": {
+        "current": 92.0,
+        "weekday_baseline_mean": 121.25,
+        "delta_abs": -29.25,
+        "delta_pct": -0.24123711340206186,
+        "kpi_label": "Net Calls",
+        "current_calls": 92.0,
+        "weekday_baseline_calls": 121.25,
+        "calls_delta": -29.25,
+        "delta_pct_precomputed": -0.24123711340206186
+      },
+      "contact_rate": {
+        "current": 0.9130434782608695,
+        "weekday_baseline_mean": 0.896828879100817,
+        "delta_abs": 0.016214599160052523,
+        "delta_pct": 0.018079925321215887,
+        "kpi_label": "Contact Rate",
+        "current_calls": 92.0,
+        "weekday_baseline_calls": 121.25,
+        "calls_delta": -29.25,
+        "delta_pct_precomputed": 0.018079925321215887
+      },
+      "credit_rate": {
+        "current": 0.717391304347826,
+        "weekday_baseline_mean": 0.7212147859736975,
+        "delta_abs": -0.0038234816258714277,
+        "delta_pct": -0.005301446531922418,
+        "kpi_label": "Credit Rate",
+        "current_calls": 92.0,
+        "weekday_baseline_calls": 121.25,
+        "calls_delta": -29.25,
+        "delta_pct_precomputed": -0.005301446531922418
+      },
+      "net_conversion_rate": {
+        "current": 0.391304347826087,
+        "weekday_baseline_mean": 0.4519200431862743,
+        "delta_abs": -0.06061569536018735,
+        "delta_pct": -0.1341292475828573,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 92.0,
+        "weekday_baseline_calls": 121.25,
+        "calls_delta": -29.25,
+        "delta_pct_precomputed": -0.1341292475828573
+      },
+      "orders": {
+        "current": 36.0,
+        "weekday_baseline_mean": 54.75,
+        "delta_abs": -18.75,
+        "delta_pct": -0.3424657534246575,
+        "kpi_label": "Orders",
+        "current_calls": 92.0,
+        "weekday_baseline_calls": 121.25,
+        "calls_delta": -18.75,
+        "delta_pct_precomputed": -0.3424657534246575
+      },
+      "gross_conversion_rate": {
+        "current": 0.11145510835913312,
+        "weekday_baseline_mean": 0.1305084455575875,
+        "delta_abs": -0.01905333719845438,
+        "delta_pct": -0.145993135670649,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 323.0,
+        "weekday_baseline_calls": 438.25,
+        "calls_delta": -115.25,
+        "delta_pct_precomputed": -0.145993135670649
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0019230769230769232,
+          "delta_pct_points": -0.0019230769230769232,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 277.75,
+          "calls_delta": 10.25,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.029411764705882353,
+          "weekday_baseline_mean": 0.02963921286014946,
+          "delta_pct_points": -0.00022744815426710766,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 127.5,
+          "calls_delta": 160.5,
+          "delta_pct_precomputed": -0.007673893208308391
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.06315789473684211,
+          "weekday_baseline_mean": 0.03611116842245179,
+          "delta_pct_points": 0.02704672631439032,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 121.5,
+          "calls_delta": 166.5,
+          "delta_pct_precomputed": 0.7489850784660367
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.13043478260869565,
+          "weekday_baseline_mean": 0.15717484363942516,
+          "delta_pct_points": -0.02674006103072951,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 118.75,
+          "calls_delta": 169.25,
+          "delta_pct_precomputed": -0.17012939482907258
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.0759493670886076,
+          "weekday_baseline_mean": 0.08643029149414799,
+          "delta_pct_points": -0.010480924405540396,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 97.5,
+          "calls_delta": 190.5,
+          "delta_pct_precomputed": -0.12126448059301102
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.11267605633802817,
+          "weekday_baseline_mean": 0.17304019509901863,
+          "delta_pct_points": -0.06036413876099046,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 85.75,
+          "calls_delta": 202.25,
+          "delta_pct_precomputed": -0.3488446064594896
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.031746031746031744,
+          "weekday_baseline_mean": 0.015899974120082816,
+          "delta_pct_points": 0.01584605762594893,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 69.0,
+          "calls_delta": 219.0,
+          "delta_pct_precomputed": 0.9966090200067819
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.16666666666666666,
+          "weekday_baseline_mean": 0.14454509349262448,
+          "delta_pct_points": 0.022121573174042175,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 67.75,
+          "calls_delta": 220.25,
+          "delta_pct_precomputed": 0.15304271241258663
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.8,
+          "weekday_baseline_mean": 0.8514226484428594,
+          "delta_pct_points": -0.051422648442859376,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 67.75,
+          "calls_delta": 220.25,
+          "delta_pct_precomputed": -0.06039614818434143
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.6458333333333334,
+          "weekday_baseline_mean": 0.5359048579318264,
+          "delta_pct_points": 0.10992847540150696,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 277.75,
+          "calls_delta": 10.25,
+          "delta_pct_precomputed": 0.20512684998927777
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0392156862745098,
+          "weekday_baseline_mean": 0.01736758851985471,
+          "delta_pct_points": 0.021848097754655092,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 127.5,
+          "calls_delta": 160.5,
+          "delta_pct_precomputed": 1.257981079507857
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.019882439121742097,
+          "delta_pct_points": -0.019882439121742097,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 121.5,
+          "calls_delta": 166.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.010869565217391304,
+          "weekday_baseline_mean": 0.024426209147175085,
+          "delta_pct_points": -0.013556643929783781,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 118.75,
+          "calls_delta": 169.25,
+          "delta_pct_precomputed": -0.5550040060699153
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.02531645569620253,
+          "weekday_baseline_mean": 0.03420316909135378,
+          "delta_pct_points": -0.008886713395151246,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 97.5,
+          "calls_delta": 190.5,
+          "delta_pct_precomputed": -0.2598213449582869
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.01984339190221543,
+          "delta_pct_points": -0.01984339190221543,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 85.75,
+          "calls_delta": 202.25,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.015873015873015872,
+          "weekday_baseline_mean": 0.0028735632183908046,
+          "delta_pct_points": 0.012999452654625068,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 69.0,
+          "calls_delta": 219.0,
+          "delta_pct_precomputed": 4.523809523809524
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 67.75,
+          "calls_delta": 220.25
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.03333333333333333,
+          "weekday_baseline_mean": 0.004032258064516129,
+          "delta_pct_points": 0.029301075268817204,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 288.0,
+          "weekday_baseline_calls": 67.75,
+          "calls_delta": 220.25,
+          "delta_pct_precomputed": 7.266666666666667
+        }
+      ]
+    }
+  },
+  "bucket_nrg": {
+    "metrics": {
+      "gross_calls": {
+        "current": 12.0,
+        "weekday_baseline_mean": 56.0,
+        "delta_abs": -44.0,
+        "delta_pct": -0.7857142857142857,
+        "kpi_label": "Gross Calls",
+        "current_calls": 12.0,
+        "weekday_baseline_calls": 56.0,
+        "calls_delta": -44.0,
+        "delta_pct_precomputed": -0.7857142857142857
+      },
+      "entered_compass_calls_count": {
+        "current": 10.0,
+        "weekday_baseline_mean": 29.75,
+        "delta_abs": -19.75,
+        "delta_pct": -0.6638655462184874,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 10.0,
+        "weekday_baseline_calls": 29.75,
+        "calls_delta": -19.75,
+        "delta_pct_precomputed": -0.6638655462184874
+      },
+      "entered_compass_rate": {
+        "current": 0.8333333333333334,
+        "weekday_baseline_mean": 0.5323275819308244,
+        "delta_abs": 0.30100575140250896,
+        "delta_pct": 0.5654521043428188,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 10.0,
+        "weekday_baseline_calls": 29.75,
+        "calls_delta": -19.75,
+        "delta_pct_precomputed": 0.5654521043428188
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.6,
+        "weekday_baseline_mean": 0.43705210892710894,
+        "delta_abs": 0.16294789107289104,
+        "delta_pct": 0.37283401165344177,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 10.0,
+        "weekday_baseline_calls": 29.75,
+        "calls_delta": -19.75,
+        "delta_pct_precomputed": 0.37283401165344177
+      },
+      "non_bot_compass_calls_count": {
+        "current": 4.0,
+        "weekday_baseline_mean": 16.25,
+        "delta_abs": -12.25,
+        "delta_pct": -0.7538461538461538,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 4.0,
+        "weekday_baseline_calls": 16.25,
+        "calls_delta": -12.25,
+        "delta_pct_precomputed": -0.7538461538461538
+      },
+      "queue_calls": {
+        "current": 3.0,
+        "weekday_baseline_mean": 11.25,
+        "delta_abs": -8.25,
+        "delta_pct": -0.7333333333333333,
+        "kpi_label": "Queue Calls",
+        "current_calls": 12.0,
+        "weekday_baseline_calls": 56.0,
+        "calls_delta": -8.25,
+        "delta_pct_precomputed": -0.7333333333333333
+      },
+      "queue_to_gross_rate": {
+        "current": 0.25,
+        "weekday_baseline_mean": 0.20531775320803758,
+        "delta_abs": 0.04468224679196242,
+        "delta_pct": 0.21762485753819968,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 12.0,
+        "weekday_baseline_calls": 56.0,
+        "calls_delta": -44.0,
+        "delta_pct_precomputed": 0.21762485753819968
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.003676470588235294,
+        "delta_abs": -0.003676470588235294,
+        "delta_pct": -1.0,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 3.0,
+        "weekday_baseline_calls": 11.25,
+        "calls_delta": -8.25,
+        "delta_pct_precomputed": -1.0
+      },
+      "net_calls": {
+        "current": 3.0,
+        "weekday_baseline_mean": 11.0,
+        "delta_abs": -8.0,
+        "delta_pct": -0.7272727272727273,
+        "kpi_label": "Net Calls",
+        "current_calls": 3.0,
+        "weekday_baseline_calls": 11.0,
+        "calls_delta": -8.0,
+        "delta_pct_precomputed": -0.7272727272727273
+      },
+      "contact_rate": {
+        "current": 1.0,
+        "weekday_baseline_mean": 0.7601190476190476,
+        "delta_abs": 0.23988095238095242,
+        "delta_pct": 0.31558339859044643,
+        "kpi_label": "Contact Rate",
+        "current_calls": 3.0,
+        "weekday_baseline_calls": 11.0,
+        "calls_delta": -8.0,
+        "delta_pct_precomputed": 0.31558339859044643
+      },
+      "credit_rate": {
+        "current": 1.0,
+        "weekday_baseline_mean": 0.38809523809523805,
+        "delta_abs": 0.611904761904762,
+        "delta_pct": 1.5766871165644174,
+        "kpi_label": "Credit Rate",
+        "current_calls": 3.0,
+        "weekday_baseline_calls": 11.0,
+        "calls_delta": -8.0,
+        "delta_pct_precomputed": 1.5766871165644174
+      },
+      "net_conversion_rate": {
+        "current": 0.6666666666666666,
+        "weekday_baseline_mean": 0.19999999999999998,
+        "delta_abs": 0.4666666666666667,
+        "delta_pct": 2.3333333333333335,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 3.0,
+        "weekday_baseline_calls": 11.0,
+        "calls_delta": -8.0,
+        "delta_pct_precomputed": 2.3333333333333335
+      },
+      "orders": {
+        "current": 2.0,
+        "weekday_baseline_mean": 2.5,
+        "delta_abs": -0.5,
+        "delta_pct": -0.2,
+        "kpi_label": "Orders",
+        "current_calls": 3.0,
+        "weekday_baseline_calls": 11.0,
+        "calls_delta": -0.5,
+        "delta_pct_precomputed": -0.2
+      },
+      "gross_conversion_rate": {
+        "current": 0.16666666666666666,
+        "weekday_baseline_mean": 0.040184483861847295,
+        "delta_abs": 0.12648218280481938,
+        "delta_pct": 3.147537821803566,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 12.0,
+        "weekday_baseline_calls": 56.0,
+        "calls_delta": -44.0,
+        "delta_pct_precomputed": 3.147537821803566
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 29.75,
+          "calls_delta": -19.75
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.022727272727272728,
+          "delta_pct_points": -0.022727272727272728,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 13.5,
+          "calls_delta": -3.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.05,
+          "delta_pct_points": -0.05,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 13.0,
+          "calls_delta": -3.0,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.23288690476190474,
+          "delta_pct_points": -0.23288690476190474,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 10.75,
+          "calls_delta": -0.75,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.17670454545454545,
+          "delta_pct_points": -0.17670454545454545,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 7.5,
+          "calls_delta": 2.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.6666666666666666,
+          "weekday_baseline_mean": 0.1388888888888889,
+          "delta_pct_points": 0.5277777777777777,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 6.25,
+          "calls_delta": 3.75,
+          "delta_pct_precomputed": 3.799999999999999
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 5.25,
+          "calls_delta": 4.75
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.29464285714285715,
+          "delta_pct_points": -0.29464285714285715,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 5.0,
+          "calls_delta": 5.0,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 1.0,
+          "weekday_baseline_mean": 0.7053571428571428,
+          "delta_pct_points": 0.2946428571428572,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 5.0,
+          "calls_delta": 5.0,
+          "delta_pct_precomputed": 0.4177215189873419
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.7,
+          "weekday_baseline_mean": 0.5517634111384111,
+          "delta_pct_points": 0.14823658886158886,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 29.75,
+          "calls_delta": -19.75,
+          "delta_pct_precomputed": 0.2686596933923974
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.016666666666666666,
+          "delta_pct_points": -0.016666666666666666,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 13.5,
+          "calls_delta": -3.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.12023809523809523,
+          "delta_pct_points": -0.12023809523809523,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 13.0,
+          "calls_delta": -3.0,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0625,
+          "delta_pct_points": -0.0625,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 10.75,
+          "calls_delta": -0.75,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 7.5,
+          "calls_delta": 2.5
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 6.25,
+          "calls_delta": 3.75
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.08333333333333333,
+          "delta_pct_points": -0.08333333333333333,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 5.25,
+          "calls_delta": 4.75,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 5.0,
+          "calls_delta": 5.0
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 10.0,
+          "weekday_baseline_calls": 5.0,
+          "calls_delta": 5.0
+        }
+      ]
+    }
+  },
+  "bucket_natural": {
+    "metrics": {
+      "gross_calls": {
+        "current": 3790.0,
+        "weekday_baseline_mean": 4764.0,
+        "delta_abs": -974.0,
+        "delta_pct": -0.20445004198152814,
+        "kpi_label": "Gross Calls",
+        "current_calls": 3790.0,
+        "weekday_baseline_calls": 4764.0,
+        "calls_delta": -974.0,
+        "delta_pct_precomputed": -0.20445004198152814
+      },
+      "entered_compass_calls_count": {
+        "current": 3115.0,
+        "weekday_baseline_mean": 2544.5,
+        "delta_abs": 570.5,
+        "delta_pct": 0.22420907840440166,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 3115.0,
+        "weekday_baseline_calls": 2544.5,
+        "calls_delta": 570.5,
+        "delta_pct_precomputed": 0.22420907840440166
+      },
+      "entered_compass_rate": {
+        "current": 0.8218997361477572,
+        "weekday_baseline_mean": 0.54202788882838,
+        "delta_abs": 0.2798718473193772,
+        "delta_pct": 0.5163421533979257,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 3115.0,
+        "weekday_baseline_calls": 2544.5,
+        "calls_delta": 570.5,
+        "delta_pct_precomputed": 0.5163421533979257
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.6863563402889246,
+        "weekday_baseline_mean": 0.7863504004841335,
+        "delta_abs": -0.09999406019520896,
+        "delta_pct": -0.12716221691200955,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 3115.0,
+        "weekday_baseline_calls": 2544.5,
+        "calls_delta": 570.5,
+        "delta_pct_precomputed": -0.12716221691200955
+      },
+      "non_bot_compass_calls_count": {
+        "current": 977.0,
+        "weekday_baseline_mean": 507.0,
+        "delta_abs": 470.0,
+        "delta_pct": 0.9270216962524654,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 977.0,
+        "weekday_baseline_calls": 507.0,
+        "calls_delta": 470.0,
+        "delta_pct_precomputed": 0.9270216962524654
+      },
+      "queue_calls": {
+        "current": 166.0,
+        "weekday_baseline_mean": 184.25,
+        "delta_abs": -18.25,
+        "delta_pct": -0.09905020352781546,
+        "kpi_label": "Queue Calls",
+        "current_calls": 3790.0,
+        "weekday_baseline_calls": 4764.0,
+        "calls_delta": -18.25,
+        "delta_pct_precomputed": -0.09905020352781546
+      },
+      "queue_to_gross_rate": {
+        "current": 0.043799472295514515,
+        "weekday_baseline_mean": 0.03938028089096192,
+        "delta_abs": 0.004419191404552596,
+        "delta_pct": 0.11221838200668686,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 3790.0,
+        "weekday_baseline_calls": 4764.0,
+        "calls_delta": -974.0,
+        "delta_pct_precomputed": 0.11221838200668686
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.00031876841466450936,
+        "delta_abs": -0.00031876841466450936,
+        "delta_pct": -1.0,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 166.0,
+        "weekday_baseline_calls": 184.25,
+        "calls_delta": -18.25,
+        "delta_pct_precomputed": -1.0
+      },
+      "net_calls": {
+        "current": 166.0,
+        "weekday_baseline_mean": 182.5,
+        "delta_abs": -16.5,
+        "delta_pct": -0.09041095890410959,
+        "kpi_label": "Net Calls",
+        "current_calls": 166.0,
+        "weekday_baseline_calls": 182.5,
+        "calls_delta": -16.5,
+        "delta_pct_precomputed": -0.09041095890410959
+      },
+      "contact_rate": {
+        "current": 0.891566265060241,
+        "weekday_baseline_mean": 0.8855577997484831,
+        "delta_abs": 0.006008465311757805,
+        "delta_pct": 0.00678494990780312,
+        "kpi_label": "Contact Rate",
+        "current_calls": 166.0,
+        "weekday_baseline_calls": 182.5,
+        "calls_delta": -16.5,
+        "delta_pct_precomputed": 0.00678494990780312
+      },
+      "credit_rate": {
+        "current": 0.7048192771084337,
+        "weekday_baseline_mean": 0.633231237788577,
+        "delta_abs": 0.07158803931985669,
+        "delta_pct": 0.11305197066692795,
+        "kpi_label": "Credit Rate",
+        "current_calls": 166.0,
+        "weekday_baseline_calls": 182.5,
+        "calls_delta": -16.5,
+        "delta_pct_precomputed": 0.11305197066692795
+      },
+      "net_conversion_rate": {
+        "current": 0.42771084337349397,
+        "weekday_baseline_mean": 0.4058163936805993,
+        "delta_abs": 0.02189444969289467,
+        "delta_pct": 0.0539516146558802,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 166.0,
+        "weekday_baseline_calls": 182.5,
+        "calls_delta": -16.5,
+        "delta_pct_precomputed": 0.0539516146558802
+      },
+      "orders": {
+        "current": 71.0,
+        "weekday_baseline_mean": 73.75,
+        "delta_abs": -2.75,
+        "delta_pct": -0.03728813559322034,
+        "kpi_label": "Orders",
+        "current_calls": 166.0,
+        "weekday_baseline_calls": 182.5,
+        "calls_delta": -2.75,
+        "delta_pct_precomputed": -0.03728813559322034
+      },
+      "gross_conversion_rate": {
+        "current": 0.018733509234828496,
+        "weekday_baseline_mean": 0.015810146853930618,
+        "delta_abs": 0.002923362380897878,
+        "delta_pct": 0.1849041889304836,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 3790.0,
+        "weekday_baseline_calls": 4764.0,
+        "calls_delta": -974.0,
+        "delta_pct_precomputed": 0.1849041889304836
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0009080440777806375,
+          "delta_pct_points": -0.0009080440777806375,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 2544.5,
+          "calls_delta": 570.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.03804347826086957,
+          "weekday_baseline_mean": 0.03473897761889134,
+          "delta_pct_points": 0.0033045006419782294,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 195.75,
+          "calls_delta": 2919.25,
+          "delta_pct_precomputed": 0.09512371602384795
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.02857142857142857,
+          "weekday_baseline_mean": 0.0233330454689165,
+          "delta_pct_points": 0.005238383102512071,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 184.25,
+          "calls_delta": 2930.75,
+          "delta_pct_precomputed": 0.2245049026922126
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.17159763313609466,
+          "weekday_baseline_mean": 0.18763102725366876,
+          "delta_pct_points": -0.016033394117574096,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 179.5,
+          "calls_delta": 2935.5,
+          "delta_pct_precomputed": -0.08545172060427758
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.08759124087591241,
+          "weekday_baseline_mean": 0.07082591830669945,
+          "delta_pct_points": 0.016765322569212968,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 141.5,
+          "calls_delta": 2973.5,
+          "delta_pct_precomputed": 0.23671168648479254
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.13934426229508196,
+          "weekday_baseline_mean": 0.15085580484022254,
+          "delta_pct_points": -0.011511542545140585,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 129.25,
+          "calls_delta": 2985.75,
+          "delta_pct_precomputed": -0.07630825050009128
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.026924498808213536,
+          "delta_pct_points": -0.026924498808213536,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 106.0,
+          "calls_delta": 3009.0,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.16666666666666666,
+          "weekday_baseline_mean": 0.19250081437014288,
+          "delta_pct_points": -0.025834147703476223,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 99.25,
+          "calls_delta": 3015.75,
+          "delta_pct_precomputed": -0.13420279694922232
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.8333333333333334,
+          "weekday_baseline_mean": 0.7973717743414551,
+          "delta_pct_points": 0.03596155899187825,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 99.25,
+          "calls_delta": 3015.75,
+          "delta_pct_precomputed": 0.04510011534027361
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.9409309791332263,
+          "weekday_baseline_mean": 0.9202129629999964,
+          "delta_pct_points": 0.020718016133229877,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 2544.5,
+          "calls_delta": 570.5,
+          "delta_pct_precomputed": 0.022514371092629302
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.010869565217391304,
+          "weekday_baseline_mean": 0.02568986551583638,
+          "delta_pct_points": -0.014820300298445076,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 195.75,
+          "calls_delta": 2919.25,
+          "delta_pct_precomputed": -0.5768928719891189
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.04,
+          "weekday_baseline_mean": 0.03379690482324149,
+          "delta_pct_points": 0.006203095176758509,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 184.25,
+          "calls_delta": 2930.75,
+          "delta_pct_precomputed": 0.1835403333293633
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.01775147928994083,
+          "weekday_baseline_mean": 0.02947156416242489,
+          "delta_pct_points": -0.011720084872484063,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 179.5,
+          "calls_delta": 2935.5,
+          "delta_pct_precomputed": -0.3976743415412854
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.021897810218978103,
+          "weekday_baseline_mean": 0.015459611227381168,
+          "delta_pct_points": 0.006438198991596936,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 141.5,
+          "calls_delta": 2973.5,
+          "delta_pct_precomputed": 0.41645283939572625
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.00819672131147541,
+          "weekday_baseline_mean": 0.02099560702622485,
+          "delta_pct_points": -0.012798885714749441,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 129.25,
+          "calls_delta": 2985.75,
+          "delta_pct_precomputed": -0.6095982697124602
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.019230769230769232,
+          "weekday_baseline_mean": 0.03833946937506907,
+          "delta_pct_points": -0.019108700144299835,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 106.0,
+          "calls_delta": 3009.0,
+          "delta_pct_precomputed": -0.49840804934889404
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 99.25,
+          "calls_delta": 3015.75
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.010127411288402,
+          "delta_pct_points": -0.010127411288402,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 3115.0,
+          "weekday_baseline_calls": 99.25,
+          "calls_delta": 3015.75,
+          "delta_pct_precomputed": -1.0
+        }
+      ]
+    }
+  },
+  "bucket_other_bucket": {
+    "metrics": {
+      "gross_calls": {
+        "current": 1414.0,
+        "weekday_baseline_mean": 1228.75,
+        "delta_abs": 185.25,
+        "delta_pct": 0.15076297049847406,
+        "kpi_label": "Gross Calls",
+        "current_calls": 1414.0,
+        "weekday_baseline_calls": 1228.75,
+        "calls_delta": 185.25,
+        "delta_pct_precomputed": 0.15076297049847406
+      },
+      "entered_compass_calls_count": {
+        "current": 850.0,
+        "weekday_baseline_mean": 396.25,
+        "delta_abs": 453.75,
+        "delta_pct": 1.1451104100946372,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 850.0,
+        "weekday_baseline_calls": 396.25,
+        "calls_delta": 453.75,
+        "delta_pct_precomputed": 1.1451104100946372
+      },
+      "entered_compass_rate": {
+        "current": 0.6011315417256011,
+        "weekday_baseline_mean": 0.3216417756015104,
+        "delta_abs": 0.2794897661240907,
+        "delta_pct": 0.8689473424321509,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 850.0,
+        "weekday_baseline_calls": 396.25,
+        "calls_delta": 453.75,
+        "delta_pct_precomputed": 0.8689473424321509
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.6517647058823529,
+        "weekday_baseline_mean": 0.7623408988306809,
+        "delta_abs": -0.11057619294832799,
+        "delta_pct": -0.1450482233314986,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 850.0,
+        "weekday_baseline_calls": 396.25,
+        "calls_delta": 453.75,
+        "delta_pct_precomputed": -0.1450482233314986
+      },
+      "non_bot_compass_calls_count": {
+        "current": 296.0,
+        "weekday_baseline_mean": 91.5,
+        "delta_abs": 204.5,
+        "delta_pct": 2.2349726775956285,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 296.0,
+        "weekday_baseline_calls": 91.5,
+        "calls_delta": 204.5,
+        "delta_pct_precomputed": 2.2349726775956285
+      },
+      "queue_calls": {
+        "current": 44.0,
+        "weekday_baseline_mean": 36.25,
+        "delta_abs": 7.75,
+        "delta_pct": 0.21379310344827587,
+        "kpi_label": "Queue Calls",
+        "current_calls": 1414.0,
+        "weekday_baseline_calls": 1228.75,
+        "calls_delta": 7.75,
+        "delta_pct_precomputed": 0.21379310344827587
+      },
+      "queue_to_gross_rate": {
+        "current": 0.031117397454031116,
+        "weekday_baseline_mean": 0.029727770013977396,
+        "delta_abs": 0.00138962744005372,
+        "delta_pct": 0.04674509522242487,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 1414.0,
+        "weekday_baseline_calls": 1228.75,
+        "calls_delta": 185.25,
+        "delta_pct_precomputed": 0.04674509522242487
+      },
+      "abandonment_rate": {
+        "current": 0.0021216407355021216,
+        "weekday_baseline_mean": 0.0012053492264935892,
+        "delta_abs": 0.0009162915090085324,
+        "delta_pct": 0.7601875778972891,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 44.0,
+        "weekday_baseline_calls": 36.25,
+        "calls_delta": 7.75,
+        "delta_pct_precomputed": 0.7601875778972891
+      },
+      "net_calls": {
+        "current": 41.0,
+        "weekday_baseline_mean": 34.75,
+        "delta_abs": 6.25,
+        "delta_pct": 0.17985611510791366,
+        "kpi_label": "Net Calls",
+        "current_calls": 41.0,
+        "weekday_baseline_calls": 34.75,
+        "calls_delta": 6.25,
+        "delta_pct_precomputed": 0.17985611510791366
+      },
+      "contact_rate": {
+        "current": 0.6829268292682927,
+        "weekday_baseline_mean": 0.7530369484316852,
+        "delta_abs": -0.07011011916339249,
+        "delta_pct": -0.0931031595586479,
+        "kpi_label": "Contact Rate",
+        "current_calls": 41.0,
+        "weekday_baseline_calls": 34.75,
+        "calls_delta": 6.25,
+        "delta_pct_precomputed": -0.0931031595586479
+      },
+      "credit_rate": {
+        "current": 0.4146341463414634,
+        "weekday_baseline_mean": 0.5623294346978558,
+        "delta_abs": -0.1476952883563924,
+        "delta_pct": -0.2626490438576282,
+        "kpi_label": "Credit Rate",
+        "current_calls": 41.0,
+        "weekday_baseline_calls": 34.75,
+        "calls_delta": 6.25,
+        "delta_pct_precomputed": -0.2626490438576282
+      },
+      "net_conversion_rate": {
+        "current": 0.24390243902439024,
+        "weekday_baseline_mean": 0.3341662236399078,
+        "delta_abs": -0.09026378461551754,
+        "delta_pct": -0.27011642179846507,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 41.0,
+        "weekday_baseline_calls": 34.75,
+        "calls_delta": 6.25,
+        "delta_pct_precomputed": -0.27011642179846507
+      },
+      "orders": {
+        "current": 10.0,
+        "weekday_baseline_mean": 11.25,
+        "delta_abs": -1.25,
+        "delta_pct": -0.1111111111111111,
+        "kpi_label": "Orders",
+        "current_calls": 41.0,
+        "weekday_baseline_calls": 34.75,
+        "calls_delta": -1.25,
+        "delta_pct_precomputed": -0.1111111111111111
+      },
+      "gross_conversion_rate": {
+        "current": 0.007072135785007072,
+        "weekday_baseline_mean": 0.009174642345355616,
+        "delta_abs": -0.002102506560348544,
+        "delta_pct": -0.22916496155437321,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 1414.0,
+        "weekday_baseline_calls": 1228.75,
+        "calls_delta": 185.25,
+        "delta_pct_precomputed": -0.22916496155437321
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 396.25,
+          "calls_delta": 453.75
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0975609756097561,
+          "weekday_baseline_mean": 0.0603448275862069,
+          "delta_pct_points": 0.0372161480235492,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 27.5,
+          "calls_delta": 822.5,
+          "delta_pct_precomputed": 0.6167247386759582
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.05555555555555555,
+          "weekday_baseline_mean": 0.030092592592592587,
+          "delta_pct_points": 0.025462962962962965,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 25.25,
+          "calls_delta": 824.75,
+          "delta_pct_precomputed": 0.8461538461538464
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.1111111111111111,
+          "weekday_baseline_mean": 0.16333213887561712,
+          "delta_pct_points": -0.05222102776450602,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 25.25,
+          "calls_delta": 824.75,
+          "delta_pct_precomputed": -0.3197229162857781
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.14814814814814814,
+          "weekday_baseline_mean": 0.046590909090909086,
+          "delta_pct_points": 0.10155723905723905,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 20.75,
+          "calls_delta": 829.25,
+          "delta_pct_precomputed": 2.1797651309846433
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.2608695652173913,
+          "weekday_baseline_mean": 0.19305985552115582,
+          "delta_pct_points": 0.06780970969623548,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 18.5,
+          "calls_delta": 831.5,
+          "delta_pct_precomputed": 0.3512367162670169
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.03125,
+          "delta_pct_points": -0.03125,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 14.25,
+          "calls_delta": 835.75,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.17647058823529413,
+          "weekday_baseline_mean": 0.15892857142857142,
+          "delta_pct_points": 0.01754201680672271,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 13.5,
+          "calls_delta": 836.5,
+          "delta_pct_precomputed": 0.11037673496364851
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.7647058823529411,
+          "weekday_baseline_mean": 0.8410714285714286,
+          "delta_pct_points": -0.07636554621848746,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 13.5,
+          "calls_delta": 836.5,
+          "delta_pct_precomputed": -0.09079555389034602
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.951764705882353,
+          "weekday_baseline_mean": 0.9274046878091615,
+          "delta_pct_points": 0.024360018073191436,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 396.25,
+          "calls_delta": 453.75,
+          "delta_pct_precomputed": 0.026266869677721714
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.024390243902439025,
+          "weekday_baseline_mean": 0.017549261083743842,
+          "delta_pct_points": 0.0068409828186951835,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 27.5,
+          "calls_delta": 822.5,
+          "delta_pct_precomputed": 0.3898160034231922
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.027777777777777776,
+          "weekday_baseline_mean": 0.04807692307692308,
+          "delta_pct_points": -0.020299145299145303,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 25.25,
+          "calls_delta": 824.75,
+          "delta_pct_precomputed": -0.4222222222222223
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.1388888888888889,
+          "weekday_baseline_mean": 0.009615384615384616,
+          "delta_pct_points": 0.12927350427350429,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 25.25,
+          "calls_delta": 824.75,
+          "delta_pct_precomputed": 13.444444444444445
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.05963203463203463,
+          "delta_pct_points": -0.05963203463203463,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 20.75,
+          "calls_delta": 829.25,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.041752665978672165,
+          "delta_pct_points": -0.041752665978672165,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 18.5,
+          "calls_delta": 831.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.014705882352941176,
+          "delta_pct_points": -0.014705882352941176,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 14.25,
+          "calls_delta": 835.75,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.058823529411764705,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.058823529411764705,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 13.5,
+          "calls_delta": 836.5
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 850.0,
+          "weekday_baseline_calls": 13.5,
+          "calls_delta": 836.5
+        }
+      ]
+    }
+  },
+  "bucket_pmax": {
+    "metrics": {
+      "gross_calls": {
+        "current": 240.0,
+        "weekday_baseline_mean": 335.5,
+        "delta_abs": -95.5,
+        "delta_pct": -0.2846497764530551,
+        "kpi_label": "Gross Calls",
+        "current_calls": 240.0,
+        "weekday_baseline_calls": 335.5,
+        "calls_delta": -95.5,
+        "delta_pct_precomputed": -0.2846497764530551
+      },
+      "entered_compass_calls_count": {
+        "current": 205.0,
+        "weekday_baseline_mean": 204.5,
+        "delta_abs": 0.5,
+        "delta_pct": 0.0024449877750611247,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 205.0,
+        "weekday_baseline_calls": 204.5,
+        "calls_delta": 0.5,
+        "delta_pct_precomputed": 0.0024449877750611247
+      },
+      "entered_compass_rate": {
+        "current": 0.8541666666666666,
+        "weekday_baseline_mean": 0.620585535797636,
+        "delta_abs": 0.23358113086903065,
+        "delta_pct": 0.3763882936279039,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 205.0,
+        "weekday_baseline_calls": 204.5,
+        "calls_delta": 0.5,
+        "delta_pct_precomputed": 0.3763882936279039
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.4292682926829268,
+        "weekday_baseline_mean": 0.5191794303414361,
+        "delta_abs": -0.08991113765850928,
+        "delta_pct": -0.17317931413303414,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 205.0,
+        "weekday_baseline_calls": 204.5,
+        "calls_delta": 0.5,
+        "delta_pct_precomputed": -0.17317931413303414
+      },
+      "non_bot_compass_calls_count": {
+        "current": 117.0,
+        "weekday_baseline_mean": 95.75,
+        "delta_abs": 21.25,
+        "delta_pct": 0.22193211488250653,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 117.0,
+        "weekday_baseline_calls": 95.75,
+        "calls_delta": 21.25,
+        "delta_pct_precomputed": 0.22193211488250653
+      },
+      "queue_calls": {
+        "current": 43.0,
+        "weekday_baseline_mean": 74.25,
+        "delta_abs": -31.25,
+        "delta_pct": -0.4208754208754209,
+        "kpi_label": "Queue Calls",
+        "current_calls": 240.0,
+        "weekday_baseline_calls": 335.5,
+        "calls_delta": -31.25,
+        "delta_pct_precomputed": -0.4208754208754209
+      },
+      "queue_to_gross_rate": {
+        "current": 0.17916666666666667,
+        "weekday_baseline_mean": 0.22957667270171112,
+        "delta_abs": -0.05041000603504445,
+        "delta_pct": -0.2195780844883232,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 240.0,
+        "weekday_baseline_calls": 335.5,
+        "calls_delta": -95.5,
+        "delta_pct_precomputed": -0.2195780844883232
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.0007309941520467836,
+        "delta_abs": -0.0007309941520467836,
+        "delta_pct": -1.0,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 43.0,
+        "weekday_baseline_calls": 74.25,
+        "calls_delta": -31.25,
+        "delta_pct_precomputed": -1.0
+      },
+      "net_calls": {
+        "current": 43.0,
+        "weekday_baseline_mean": 74.0,
+        "delta_abs": -31.0,
+        "delta_pct": -0.4189189189189189,
+        "kpi_label": "Net Calls",
+        "current_calls": 43.0,
+        "weekday_baseline_calls": 74.0,
+        "calls_delta": -31.0,
+        "delta_pct_precomputed": -0.4189189189189189
+      },
+      "contact_rate": {
+        "current": 0.8837209302325582,
+        "weekday_baseline_mean": 0.8510115601977826,
+        "delta_abs": 0.03270937003477559,
+        "delta_pct": 0.03843587039778125,
+        "kpi_label": "Contact Rate",
+        "current_calls": 43.0,
+        "weekday_baseline_calls": 74.0,
+        "calls_delta": -31.0,
+        "delta_pct_precomputed": 0.03843587039778125
+      },
+      "credit_rate": {
+        "current": 0.7441860465116279,
+        "weekday_baseline_mean": 0.6875030453177597,
+        "delta_abs": 0.056683001193868154,
+        "delta_pct": 0.0824476365303511,
+        "kpi_label": "Credit Rate",
+        "current_calls": 43.0,
+        "weekday_baseline_calls": 74.0,
+        "calls_delta": -31.0,
+        "delta_pct_precomputed": 0.0824476365303511
+      },
+      "net_conversion_rate": {
+        "current": 0.4186046511627907,
+        "weekday_baseline_mean": 0.46564692843245914,
+        "delta_abs": -0.04704227726966842,
+        "delta_pct": -0.10102563637224073,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 43.0,
+        "weekday_baseline_calls": 74.0,
+        "calls_delta": -31.0,
+        "delta_pct_precomputed": -0.10102563637224073
+      },
+      "orders": {
+        "current": 18.0,
+        "weekday_baseline_mean": 34.25,
+        "delta_abs": -16.25,
+        "delta_pct": -0.4744525547445255,
+        "kpi_label": "Orders",
+        "current_calls": 43.0,
+        "weekday_baseline_calls": 74.0,
+        "calls_delta": -16.25,
+        "delta_pct_precomputed": -0.4744525547445255
+      },
+      "gross_conversion_rate": {
+        "current": 0.075,
+        "weekday_baseline_mean": 0.10495007518580499,
+        "delta_abs": -0.02995007518580499,
+        "delta_pct": -0.28537449956830413,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 240.0,
+        "weekday_baseline_calls": 335.5,
+        "calls_delta": -95.5,
+        "delta_pct_precomputed": -0.28537449956830413
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 204.5,
+          "calls_delta": 0.5
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.02040816326530612,
+          "weekday_baseline_mean": 0.021750663129973473,
+          "delta_pct_points": -0.001342499864667352,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 75.5,
+          "calls_delta": 129.5,
+          "delta_pct_precomputed": -0.06172224987555997
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.020833333333333332,
+          "weekday_baseline_mean": 0.006696428571428572,
+          "delta_pct_points": 0.01413690476190476,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 72.5,
+          "calls_delta": 132.5,
+          "delta_pct_precomputed": 2.1111111111111107
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.044444444444444446,
+          "weekday_baseline_mean": 0.12835481215889302,
+          "delta_pct_points": -0.08391036771444857,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 71.75,
+          "calls_delta": 133.25,
+          "delta_pct_precomputed": -0.6537376067410252
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.0975609756097561,
+          "weekday_baseline_mean": 0.11525972220082936,
+          "delta_pct_points": -0.01769874659107326,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 61.5,
+          "calls_delta": 143.5,
+          "delta_pct_precomputed": -0.15355534659570702
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.08333333333333333,
+          "weekday_baseline_mean": 0.11609848484848485,
+          "delta_pct_points": -0.032765151515151525,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 54.25,
+          "calls_delta": 150.75,
+          "delta_pct_precomputed": -0.2822185970636216
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.036276223776223776,
+          "delta_pct_points": -0.036276223776223776,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 46.5,
+          "calls_delta": 158.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.09375,
+          "weekday_baseline_mean": 0.18246566272480907,
+          "delta_pct_points": -0.08871566272480907,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 45.0,
+          "calls_delta": 160.0,
+          "delta_pct_precomputed": -0.48620469955822976
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.90625,
+          "weekday_baseline_mean": 0.8175343372751909,
+          "delta_pct_points": 0.08871566272480913,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 45.0,
+          "calls_delta": 160.0,
+          "delta_pct_precomputed": 0.10851613036890276
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.7609756097560976,
+          "weekday_baseline_mean": 0.6241212580412194,
+          "delta_pct_points": 0.13685435171487814,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 204.5,
+          "calls_delta": 0.5,
+          "delta_pct_precomputed": 0.21927526093950117
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.015565134099616858,
+          "delta_pct_points": -0.015565134099616858,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 75.5,
+          "calls_delta": 129.5,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.041666666666666664,
+          "weekday_baseline_mean": 0.027455357142857142,
+          "delta_pct_points": 0.014211309523809522,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 72.5,
+          "calls_delta": 132.5,
+          "delta_pct_precomputed": 0.5176151761517614
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.044444444444444446,
+          "weekday_baseline_mean": 0.01402871117588669,
+          "delta_pct_points": 0.030415733268557756,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 71.75,
+          "calls_delta": 133.25,
+          "delta_pct_precomputed": 2.168106028217187
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.024390243902439025,
+          "weekday_baseline_mean": 0.003676470588235294,
+          "delta_pct_points": 0.02071377331420373,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 61.5,
+          "calls_delta": 143.5,
+          "delta_pct_precomputed": 5.634146341463414
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.027777777777777776,
+          "weekday_baseline_mean": 0.025581334175084174,
+          "delta_pct_points": 0.0021964436026936027,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 54.25,
+          "calls_delta": 150.75,
+          "delta_pct_precomputed": 0.08586118251928021
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 46.5,
+          "calls_delta": 158.5
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 45.0,
+          "calls_delta": 160.0
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 205.0,
+          "weekday_baseline_calls": 45.0,
+          "calls_delta": 160.0
+        }
+      ]
+    }
+  },
+  "bucket_utility": {
+    "metrics": {
+      "gross_calls": {
+        "current": 133.0,
+        "weekday_baseline_mean": 225.75,
+        "delta_abs": -92.75,
+        "delta_pct": -0.4108527131782946,
+        "kpi_label": "Gross Calls",
+        "current_calls": 133.0,
+        "weekday_baseline_calls": 225.75,
+        "calls_delta": -92.75,
+        "delta_pct_precomputed": -0.4108527131782946
+      },
+      "entered_compass_calls_count": {
+        "current": 111.0,
+        "weekday_baseline_mean": 134.25,
+        "delta_abs": -23.25,
+        "delta_pct": -0.17318435754189945,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 111.0,
+        "weekday_baseline_calls": 134.25,
+        "calls_delta": -23.25,
+        "delta_pct_precomputed": -0.17318435754189945
+      },
+      "entered_compass_rate": {
+        "current": 0.8345864661654135,
+        "weekday_baseline_mean": 0.6045832981963931,
+        "delta_abs": 0.23000316796902043,
+        "delta_pct": 0.3804325535541111,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 111.0,
+        "weekday_baseline_calls": 134.25,
+        "calls_delta": -23.25,
+        "delta_pct_precomputed": 0.3804325535541111
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.3333333333333333,
+        "weekday_baseline_mean": 0.3286572712076178,
+        "delta_abs": 0.00467606212571553,
+        "delta_pct": 0.014227776274457017,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 111.0,
+        "weekday_baseline_calls": 134.25,
+        "calls_delta": -23.25,
+        "delta_pct_precomputed": 0.014227776274457017
+      },
+      "non_bot_compass_calls_count": {
+        "current": 74.0,
+        "weekday_baseline_mean": 89.5,
+        "delta_abs": -15.5,
+        "delta_pct": -0.17318435754189945,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 74.0,
+        "weekday_baseline_calls": 89.5,
+        "calls_delta": -15.5,
+        "delta_pct_precomputed": -0.17318435754189945
+      },
+      "queue_calls": {
+        "current": 33.0,
+        "weekday_baseline_mean": 58.5,
+        "delta_abs": -25.5,
+        "delta_pct": -0.4358974358974359,
+        "kpi_label": "Queue Calls",
+        "current_calls": 133.0,
+        "weekday_baseline_calls": 225.75,
+        "calls_delta": -25.5,
+        "delta_pct_precomputed": -0.4358974358974359
+      },
+      "queue_to_gross_rate": {
+        "current": 0.24812030075187969,
+        "weekday_baseline_mean": 0.2676874691348953,
+        "delta_abs": -0.019567168383015587,
+        "delta_pct": -0.07309706519416917,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 133.0,
+        "weekday_baseline_calls": 225.75,
+        "calls_delta": -92.75,
+        "delta_pct_precomputed": -0.07309706519416917
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.004053188200566437,
+        "delta_abs": -0.004053188200566437,
+        "delta_pct": -1.0,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 33.0,
+        "weekday_baseline_calls": 58.5,
+        "calls_delta": -25.5,
+        "delta_pct_precomputed": -1.0
+      },
+      "net_calls": {
+        "current": 33.0,
+        "weekday_baseline_mean": 57.5,
+        "delta_abs": -24.5,
+        "delta_pct": -0.4260869565217391,
+        "kpi_label": "Net Calls",
+        "current_calls": 33.0,
+        "weekday_baseline_calls": 57.5,
+        "calls_delta": -24.5,
+        "delta_pct_precomputed": -0.4260869565217391
+      },
+      "contact_rate": {
+        "current": 0.7575757575757576,
+        "weekday_baseline_mean": 0.7890807562404677,
+        "delta_abs": -0.03150499866471013,
+        "delta_pct": -0.03992620326316659,
+        "kpi_label": "Contact Rate",
+        "current_calls": 33.0,
+        "weekday_baseline_calls": 57.5,
+        "calls_delta": -24.5,
+        "delta_pct_precomputed": -0.03992620326316659
+      },
+      "credit_rate": {
+        "current": 0.2727272727272727,
+        "weekday_baseline_mean": 0.28104802910716165,
+        "delta_abs": -0.008320756379888938,
+        "delta_pct": -0.029606172319807632,
+        "kpi_label": "Credit Rate",
+        "current_calls": 33.0,
+        "weekday_baseline_calls": 57.5,
+        "calls_delta": -24.5,
+        "delta_pct_precomputed": -0.029606172319807632
+      },
+      "net_conversion_rate": {
+        "current": 0.18181818181818182,
+        "weekday_baseline_mean": 0.18846105393459053,
+        "delta_abs": -0.00664287211640871,
+        "delta_pct": -0.03524798348370832,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 33.0,
+        "weekday_baseline_calls": 57.5,
+        "calls_delta": -24.5,
+        "delta_pct_precomputed": -0.03524798348370832
+      },
+      "orders": {
+        "current": 6.0,
+        "weekday_baseline_mean": 11.0,
+        "delta_abs": -5.0,
+        "delta_pct": -0.45454545454545453,
+        "kpi_label": "Orders",
+        "current_calls": 33.0,
+        "weekday_baseline_calls": 57.5,
+        "calls_delta": -5.0,
+        "delta_pct_precomputed": -0.45454545454545453
+      },
+      "gross_conversion_rate": {
+        "current": 0.045112781954887216,
+        "weekday_baseline_mean": 0.04944541297014392,
+        "delta_abs": -0.004332631015256702,
+        "delta_pct": -0.08762452884907296,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 133.0,
+        "weekday_baseline_calls": 225.75,
+        "calls_delta": -92.75,
+        "delta_pct_precomputed": -0.08762452884907296
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 134.25,
+          "calls_delta": -23.25
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.06382978723404255,
+          "weekday_baseline_mean": 0.03340562153890994,
+          "delta_pct_points": 0.030424165695132607,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 70.25,
+          "calls_delta": 40.75,
+          "delta_pct_precomputed": 0.9107498766246688
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.14285714285714285,
+          "weekday_baseline_mean": 0.02797114143463028,
+          "delta_pct_points": 0.11488600142251257,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 64.5,
+          "calls_delta": 46.5,
+          "delta_pct_precomputed": 4.107304726587791
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.25806451612903225,
+          "weekday_baseline_mean": 0.24169120186912285,
+          "delta_pct_points": 0.0163733142599094,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 60.75,
+          "calls_delta": 50.25,
+          "delta_pct_precomputed": 0.06774476742755263
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.15,
+          "weekday_baseline_mean": 0.13960079518590157,
+          "delta_pct_points": 0.010399204814098423,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 43.0,
+          "calls_delta": 68.0,
+          "delta_pct_precomputed": 0.07449244683921864
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.1875,
+          "weekday_baseline_mean": 0.148755081300813,
+          "delta_pct_points": 0.038744918699187,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 36.0,
+          "calls_delta": 75.0,
+          "delta_pct_precomputed": 0.2604611443210932
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.008928571428571428,
+          "delta_pct_points": -0.008928571428571428,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 29.75,
+          "calls_delta": 81.25,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.18181818181818182,
+          "weekday_baseline_mean": 0.09942119299587743,
+          "delta_pct_points": 0.0823969888223044,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 27.75,
+          "calls_delta": 83.25,
+          "delta_pct_precomputed": 0.8287668487916963
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.8181818181818182,
+          "weekday_baseline_mean": 0.9005788070041226,
+          "delta_pct_points": -0.0823969888223044,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 27.75,
+          "calls_delta": 83.25,
+          "delta_pct_precomputed": -0.09149336868852967
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.5765765765765766,
+          "weekday_baseline_mean": 0.47430610321450595,
+          "delta_pct_points": 0.10227047336207062,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 134.25,
+          "calls_delta": -23.25,
+          "delta_pct_precomputed": 0.21562124684661413
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0425531914893617,
+          "weekday_baseline_mean": 0.05311261294083358,
+          "delta_pct_points": -0.01055942145147188,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 70.25,
+          "calls_delta": 40.75,
+          "delta_pct_precomputed": -0.19881193687900217
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.16666666666666666,
+          "weekday_baseline_mean": 0.06707541950949658,
+          "delta_pct_points": 0.09959124715717008,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 64.5,
+          "calls_delta": 46.5,
+          "delta_pct_precomputed": 1.4847651775486828
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.0967741935483871,
+          "weekday_baseline_mean": 0.04459903104481418,
+          "delta_pct_points": 0.05217516250357292,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 60.75,
+          "calls_delta": 50.25,
+          "delta_pct_precomputed": 1.169872108906269
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.05,
+          "weekday_baseline_mean": 0.009783434650455926,
+          "delta_pct_points": 0.04021656534954408,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 43.0,
+          "calls_delta": 68.0,
+          "delta_pct_precomputed": 4.110679611650486
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.02395833333333333,
+          "delta_pct_points": -0.02395833333333333,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 36.0,
+          "calls_delta": 75.0,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.15384615384615385,
+          "weekday_baseline_mean": 0.059261204481792715,
+          "delta_pct_points": 0.09458494936436114,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 29.75,
+          "calls_delta": 81.25,
+          "delta_pct_precomputed": 1.5960686285649361
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 27.75,
+          "calls_delta": 83.25
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.0,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 111.0,
+          "weekday_baseline_calls": 27.75,
+          "calls_delta": 83.25
+        }
+      ]
+    }
+  },
+  "site": {
+    "metrics": {
+      "gross_calls": {
+        "current": 6004.0,
+        "weekday_baseline_mean": 7278.5,
+        "delta_abs": -1274.5,
+        "delta_pct": -0.1751047605962767,
+        "kpi_label": "Gross Calls",
+        "current_calls": 6004.0,
+        "weekday_baseline_calls": 7278.5,
+        "calls_delta": -1274.5,
+        "delta_pct_precomputed": -0.1751047605962767
+      },
+      "entered_compass_calls_count": {
+        "current": 4979.0,
+        "weekday_baseline_mean": 3985.75,
+        "delta_abs": 993.25,
+        "delta_pct": 0.2492002759831901,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 4979.0,
+        "weekday_baseline_calls": 3985.75,
+        "calls_delta": 993.25,
+        "delta_pct_precomputed": 0.2492002759831901
+      },
+      "entered_compass_rate": {
+        "current": 0.8292804796802132,
+        "weekday_baseline_mean": 0.555415774514387,
+        "delta_abs": 0.2738647051658263,
+        "delta_pct": 0.49308053125655754,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 4979.0,
+        "weekday_baseline_calls": 3985.75,
+        "calls_delta": 993.25,
+        "delta_pct_precomputed": 0.49308053125655754
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.6348664390439848,
+        "weekday_baseline_mean": 0.7086869328035618,
+        "delta_abs": -0.073820493759577,
+        "delta_pct": -0.10416516848637736,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 4979.0,
+        "weekday_baseline_calls": 3985.75,
+        "calls_delta": 993.25,
+        "delta_pct_precomputed": -0.10416516848637736
+      },
+      "non_bot_compass_calls_count": {
+        "current": 1818.0,
+        "weekday_baseline_mean": 1100.5,
+        "delta_abs": 717.5,
+        "delta_pct": 0.651976374375284,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 1818.0,
+        "weekday_baseline_calls": 1100.5,
+        "calls_delta": 717.5,
+        "delta_pct_precomputed": 0.651976374375284
+      },
+      "queue_calls": {
+        "current": 496.0,
+        "weekday_baseline_mean": 604.0,
+        "delta_abs": -108.0,
+        "delta_pct": -0.17880794701986755,
+        "kpi_label": "Queue Calls",
+        "current_calls": 6004.0,
+        "weekday_baseline_calls": 7278.5,
+        "calls_delta": -108.0,
+        "delta_pct_precomputed": -0.17880794701986755
+      },
+      "queue_to_gross_rate": {
+        "current": 0.08261159227181879,
+        "weekday_baseline_mean": 0.08552568381161238,
+        "delta_abs": -0.0029140915397935924,
+        "delta_pct": -0.03407270669957423,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 6004.0,
+        "weekday_baseline_calls": 7278.5,
+        "calls_delta": -1274.5,
+        "delta_pct_precomputed": -0.03407270669957423
+      },
+      "abandonment_rate": {
+        "current": 0.00016655562958027982,
+        "weekday_baseline_mean": 0.0005911497596084273,
+        "delta_abs": -0.00042459413002814746,
+        "delta_pct": -0.7182513789896406,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 496.0,
+        "weekday_baseline_calls": 604.0,
+        "calls_delta": -108.0,
+        "delta_pct_precomputed": -0.7182513789896406
+      },
+      "net_calls": {
+        "current": 495.0,
+        "weekday_baseline_mean": 599.0,
+        "delta_abs": -104.0,
+        "delta_pct": -0.17362270450751252,
+        "kpi_label": "Net Calls",
+        "current_calls": 495.0,
+        "weekday_baseline_calls": 599.0,
+        "calls_delta": -104.0,
+        "delta_pct_precomputed": -0.17362270450751252
+      },
+      "contact_rate": {
+        "current": 0.8767676767676768,
+        "weekday_baseline_mean": 0.8724032485231183,
+        "delta_abs": 0.004364428244558405,
+        "delta_pct": 0.0050027647787269204,
+        "kpi_label": "Contact Rate",
+        "current_calls": 495.0,
+        "weekday_baseline_calls": 599.0,
+        "calls_delta": -104.0,
+        "delta_pct_precomputed": 0.0050027647787269204
+      },
+      "credit_rate": {
+        "current": 0.692929292929293,
+        "weekday_baseline_mean": 0.6519565085548753,
+        "delta_abs": 0.04097278437441765,
+        "delta_pct": 0.06284588593990385,
+        "kpi_label": "Credit Rate",
+        "current_calls": 495.0,
+        "weekday_baseline_calls": 599.0,
+        "calls_delta": -104.0,
+        "delta_pct_precomputed": 0.06284588593990385
+      },
+      "net_conversion_rate": {
+        "current": 0.43434343434343436,
+        "weekday_baseline_mean": 0.42697839464784515,
+        "delta_abs": 0.007365039695589215,
+        "delta_pct": 0.0172492092993689,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 495.0,
+        "weekday_baseline_calls": 599.0,
+        "calls_delta": -104.0,
+        "delta_pct_precomputed": 0.0172492092993689
+      },
+      "orders": {
+        "current": 215.0,
+        "weekday_baseline_mean": 255.5,
+        "delta_abs": -40.5,
+        "delta_pct": -0.15851272015655576,
+        "kpi_label": "Orders",
+        "current_calls": 495.0,
+        "weekday_baseline_calls": 599.0,
+        "calls_delta": -40.5,
+        "delta_pct_precomputed": -0.15851272015655576
+      },
+      "gross_conversion_rate": {
+        "current": 0.03580946035976016,
+        "weekday_baseline_mean": 0.03624708401076127,
+        "delta_abs": -0.0004376236510011122,
+        "delta_pct": -0.012073347772504614,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 6004.0,
+        "weekday_baseline_calls": 7278.5,
+        "calls_delta": -1274.5,
+        "delta_pct_precomputed": -0.012073347772504614
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0007945071711040613,
+          "delta_pct_points": -0.0007945071711040613,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 3985.75,
+          "calls_delta": 993.25,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.03852889667250438,
+          "weekday_baseline_mean": 0.03391798002149225,
+          "delta_pct_points": 0.004610916651012126,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 637.25,
+          "calls_delta": 4341.75,
+          "delta_pct_precomputed": 0.1359431383617303
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.03731343283582089,
+          "weekday_baseline_mean": 0.028357828778475487,
+          "delta_pct_points": 0.008955604057345405,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 600.75,
+          "calls_delta": 4378.25,
+          "delta_pct_precomputed": 0.31580711370057357
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.13346228239845262,
+          "weekday_baseline_mean": 0.16700915262647892,
+          "delta_pct_points": -0.0335468702280263,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 587.75,
+          "calls_delta": 4391.25,
+          "delta_pct_precomputed": -0.20086845361735892
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.08391608391608392,
+          "weekday_baseline_mean": 0.0857212951076512,
+          "delta_pct_points": -0.001805211191567277,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 471.25,
+          "calls_delta": 4507.75,
+          "delta_pct_precomputed": -0.02105907510263631
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.1387434554973822,
+          "weekday_baseline_mean": 0.1510867277018607,
+          "delta_pct_points": -0.012343272204478506,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 421.25,
+          "calls_delta": 4557.75,
+          "delta_pct_precomputed": -0.08169660162893641
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.012307692307692308,
+          "weekday_baseline_mean": 0.02994700843459815,
+          "delta_pct_points": -0.017639316126905842,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 349.0,
+          "calls_delta": 4630.0,
+          "delta_pct_precomputed": -0.5890176364503548
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.14376996805111822,
+          "weekday_baseline_mean": 0.1637192840046981,
+          "delta_pct_points": -0.019949315953579877,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 332.75,
+          "calls_delta": 4646.25,
+          "delta_pct_precomputed": -0.12185074027692065
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.8434504792332268,
+          "weekday_baseline_mean": 0.831829379122953,
+          "delta_pct_points": 0.011621100110273841,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 332.75,
+          "calls_delta": 4646.25,
+          "delta_pct_precomputed": 0.013970533383332356
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.8853183370154649,
+          "weekday_baseline_mean": 0.8352730845605973,
+          "delta_pct_points": 0.05004525245486757,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 3985.75,
+          "calls_delta": 993.25,
+          "delta_pct_precomputed": 0.059914839086661474
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.02276707530647986,
+          "weekday_baseline_mean": 0.02381403847162807,
+          "delta_pct_points": -0.001046963165148209,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 637.25,
+          "calls_delta": 4341.75,
+          "delta_pct_precomputed": -0.04396411664470753
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.033582089552238806,
+          "weekday_baseline_mean": 0.030186997258981375,
+          "delta_pct_points": 0.003395092293257431,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 600.75,
+          "calls_delta": 4378.25,
+          "delta_pct_precomputed": 0.11246869849724148
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.0367504835589942,
+          "weekday_baseline_mean": 0.031079295812633547,
+          "delta_pct_points": 0.0056711877463606515,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 587.75,
+          "calls_delta": 4391.25,
+          "delta_pct_precomputed": 0.18247478258678396
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.02564102564102564,
+          "weekday_baseline_mean": 0.021268350220421135,
+          "delta_pct_points": 0.0043726754206045056,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 471.25,
+          "calls_delta": 4507.75,
+          "delta_pct_precomputed": 0.20559542114395002
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.010471204188481676,
+          "weekday_baseline_mean": 0.019048889747838155,
+          "delta_pct_points": -0.00857768555935648,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 421.25,
+          "calls_delta": 4557.75,
+          "delta_pct_precomputed": -0.45029845166330257
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.024615384615384615,
+          "weekday_baseline_mean": 0.01571762946613425,
+          "delta_pct_points": 0.008897755149250366,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 349.0,
+          "calls_delta": 4630.0,
+          "delta_pct_precomputed": 0.5661003250154089
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.003194888178913738,
+          "weekday_baseline_mean": 0.0007183908045977011,
+          "delta_pct_points": 0.0024764973743160367,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 332.75,
+          "calls_delta": 4646.25,
+          "delta_pct_precomputed": 3.4472843450479234
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.009584664536741214,
+          "weekday_baseline_mean": 0.0037329460677512833,
+          "delta_pct_points": 0.005851718468989931,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 4979.0,
+          "weekday_baseline_calls": 332.75,
+          "calls_delta": 4646.25,
+          "delta_pct_precomputed": 1.5675871986318277
+        }
+      ]
+    }
+  },
+  "serp": {
+    "metrics": {
+      "gross_calls": {
+        "current": 1490.0,
+        "weekday_baseline_mean": 2014.25,
+        "delta_abs": -524.25,
+        "delta_pct": -0.2602705721732655,
+        "kpi_label": "Gross Calls",
+        "current_calls": 1490.0,
+        "weekday_baseline_calls": 2014.25,
+        "calls_delta": -524.25,
+        "delta_pct_precomputed": -0.2602705721732655
+      },
+      "entered_compass_calls_count": {
+        "current": 975.0,
+        "weekday_baseline_mean": 1089.0,
+        "delta_abs": -114.0,
+        "delta_pct": -0.1046831955922865,
+        "kpi_label": "Entered Compass Calls (Count)",
+        "current_calls": 975.0,
+        "weekday_baseline_calls": 1089.0,
+        "calls_delta": -114.0,
+        "delta_pct_precomputed": -0.1046831955922865
+      },
+      "entered_compass_rate": {
+        "current": 0.6543624161073825,
+        "weekday_baseline_mean": 0.5414075532369201,
+        "delta_abs": 0.11295486287046241,
+        "delta_pct": 0.20863185634396447,
+        "kpi_label": "Entered Compass Rate",
+        "current_calls": 975.0,
+        "weekday_baseline_calls": 1089.0,
+        "calls_delta": -114.0,
+        "delta_pct_precomputed": 0.20863185634396447
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.1753846153846154,
+        "weekday_baseline_mean": 0.15172091553575842,
+        "delta_abs": 0.023663699848856967,
+        "delta_pct": 0.15596860699986861,
+        "kpi_label": "Any Bot Call Rate (Compass)",
+        "current_calls": 975.0,
+        "weekday_baseline_calls": 1089.0,
+        "calls_delta": -114.0,
+        "delta_pct_precomputed": 0.15596860699986861
+      },
+      "non_bot_compass_calls_count": {
+        "current": 804.0,
+        "weekday_baseline_mean": 923.75,
+        "delta_abs": -119.75,
+        "delta_pct": -0.12963464140730718,
+        "kpi_label": "Non-Bot Compass Calls (Count)",
+        "current_calls": 804.0,
+        "weekday_baseline_calls": 923.75,
+        "calls_delta": -119.75,
+        "delta_pct_precomputed": -0.12963464140730718
+      },
+      "queue_calls": {
+        "current": 401.0,
+        "weekday_baseline_mean": 606.75,
+        "delta_abs": -205.75,
+        "delta_pct": -0.33910177173465184,
+        "kpi_label": "Queue Calls",
+        "current_calls": 1490.0,
+        "weekday_baseline_calls": 2014.25,
+        "calls_delta": -205.75,
+        "delta_pct_precomputed": -0.33910177173465184
+      },
+      "queue_to_gross_rate": {
+        "current": 0.2691275167785235,
+        "weekday_baseline_mean": 0.30157998371808903,
+        "delta_abs": -0.03245246693956555,
+        "delta_pct": -0.10760815933295317,
+        "kpi_label": "Queue to Gross Rate",
+        "current_calls": 1490.0,
+        "weekday_baseline_calls": 2014.25,
+        "calls_delta": -524.25,
+        "delta_pct_precomputed": -0.10760815933295317
+      },
+      "abandonment_rate": {
+        "current": 0.006040268456375839,
+        "weekday_baseline_mean": 0.007211040416637301,
+        "delta_abs": -0.0011707719602614625,
+        "delta_pct": -0.1623582579790094,
+        "kpi_label": "Abandonment Rate",
+        "current_calls": 401.0,
+        "weekday_baseline_calls": 606.75,
+        "calls_delta": -205.75,
+        "delta_pct_precomputed": -0.1623582579790094
+      },
+      "net_calls": {
+        "current": 392.0,
+        "weekday_baseline_mean": 592.5,
+        "delta_abs": -200.5,
+        "delta_pct": -0.33839662447257385,
+        "kpi_label": "Net Calls",
+        "current_calls": 392.0,
+        "weekday_baseline_calls": 592.5,
+        "calls_delta": -200.5,
+        "delta_pct_precomputed": -0.33839662447257385
+      },
+      "contact_rate": {
+        "current": 0.8392857142857143,
+        "weekday_baseline_mean": 0.8174900930700315,
+        "delta_abs": 0.021795621215682792,
+        "delta_pct": 0.02666163345641381,
+        "kpi_label": "Contact Rate",
+        "current_calls": 392.0,
+        "weekday_baseline_calls": 592.5,
+        "calls_delta": -200.5,
+        "delta_pct_precomputed": 0.02666163345641381
+      },
+      "credit_rate": {
+        "current": 0.3903061224489796,
+        "weekday_baseline_mean": 0.39624664139006316,
+        "delta_abs": -0.00594051894108355,
+        "delta_pct": -0.014991972979868703,
+        "kpi_label": "Credit Rate",
+        "current_calls": 392.0,
+        "weekday_baseline_calls": 592.5,
+        "calls_delta": -200.5,
+        "delta_pct_precomputed": -0.014991972979868703
+      },
+      "net_conversion_rate": {
+        "current": 0.21173469387755103,
+        "weekday_baseline_mean": 0.23815096490931598,
+        "delta_abs": -0.026416271031764943,
+        "delta_pct": -0.11092237666063554,
+        "kpi_label": "Net Conversion Rate",
+        "current_calls": 392.0,
+        "weekday_baseline_calls": 592.5,
+        "calls_delta": -200.5,
+        "delta_pct_precomputed": -0.11092237666063554
+      },
+      "orders": {
+        "current": 83.0,
+        "weekday_baseline_mean": 141.0,
+        "delta_abs": -58.0,
+        "delta_pct": -0.41134751773049644,
+        "kpi_label": "Orders",
+        "current_calls": 392.0,
+        "weekday_baseline_calls": 592.5,
+        "calls_delta": -58.0,
+        "delta_pct_precomputed": -0.41134751773049644
+      },
+      "gross_conversion_rate": {
+        "current": 0.05570469798657718,
+        "weekday_baseline_mean": 0.07014580902080486,
+        "delta_abs": -0.014441111034227683,
+        "delta_pct": -0.20587275613208095,
+        "kpi_label": "Gross Conversion Rate",
+        "current_calls": 1490.0,
+        "weekday_baseline_calls": 2014.25,
+        "calls_delta": -524.25,
+        "delta_pct_precomputed": -0.20587275613208095
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.008205128205128205,
+          "weekday_baseline_mean": 0.007031495442872748,
+          "delta_pct_points": 0.0011736327622554575,
+          "kpi_label": "Queue Rate – Initial Question",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 1089.0,
+          "calls_delta": -114.0,
+          "delta_pct_precomputed": 0.16691083309242177
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.002053388090349076,
+          "weekday_baseline_mean": 0.007962192714195206,
+          "delta_pct_points": -0.00590880462384613,
+          "kpi_label": "Queue Rate – Moving / Switching",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 727.25,
+          "calls_delta": 247.75,
+          "delta_pct_precomputed": -0.7421077127801439
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.06609808102345416,
+          "weekday_baseline_mean": 0.05259486328520885,
+          "delta_pct_points": 0.01350321773824531,
+          "kpi_label": "Queue Rate – ZIP Collection",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 702.75,
+          "calls_delta": 272.25,
+          "delta_pct_precomputed": 0.2567402383959194
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.22474747474747475,
+          "weekday_baseline_mean": 0.2007384224212306,
+          "delta_pct_points": 0.024009052326244146,
+          "kpi_label": "Queue Rate – Address Collection",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 595.75,
+          "calls_delta": 379.25,
+          "delta_pct_precomputed": 0.11960367146785392
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.08450704225352113,
+          "weekday_baseline_mean": 0.0807209572577934,
+          "delta_pct_points": 0.0037860849957277315,
+          "kpi_label": "Queue Rate – ERCOT Check",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 437.0,
+          "calls_delta": 538.0,
+          "delta_pct_precomputed": 0.04690337087599633
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.16796875,
+          "weekday_baseline_mean": 0.17436141714330233,
+          "delta_pct_points": -0.006392667143302333,
+          "kpi_label": "Queue Rate – Name Collection",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 390.75,
+          "calls_delta": 584.25,
+          "delta_pct_precomputed": -0.03666331260687331
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.04854368932038835,
+          "weekday_baseline_mean": 0.047013998191255416,
+          "delta_pct_points": 0.0015296911291329332,
+          "kpi_label": "Queue Rate – DOB Collection",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 311.25,
+          "calls_delta": 663.75,
+          "delta_pct_precomputed": 0.03253692916969259
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.16216216216216217,
+          "weekday_baseline_mean": 0.1593310482312256,
+          "delta_pct_points": 0.002831113930936574,
+          "kpi_label": "Queue Rate – Credit Check (No Hit)",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 279.75,
+          "calls_delta": 695.25,
+          "delta_pct_precomputed": 0.017768752307635506
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.8378378378378378,
+          "weekday_baseline_mean": 0.8343700513279632,
+          "delta_pct_points": 0.0034677865098746707,
+          "kpi_label": "Queue Rate – Credit Check (Hit)",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 279.75,
+          "calls_delta": 695.25,
+          "delta_pct_precomputed": 0.004156173276300397
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.49230769230769234,
+          "weekday_baseline_mean": 0.32450893422043237,
+          "delta_pct_points": 0.16779875808725997,
+          "kpi_label": "Breakage Rate – Initial Question",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 1089.0,
+          "calls_delta": -114.0,
+          "delta_pct_precomputed": 0.5170851720627133
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.03490759753593429,
+          "weekday_baseline_mean": 0.02667368649804712,
+          "delta_pct_points": 0.008233911037887169,
+          "kpi_label": "Breakage Rate – Moving / Switching",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 727.25,
+          "calls_delta": 247.75,
+          "delta_pct_precomputed": 0.30869040312406776
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.09381663113006397,
+          "weekday_baseline_mean": 0.10374842058340576,
+          "delta_pct_points": -0.009931789453341791,
+          "kpi_label": "Breakage Rate – ZIP Collection",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 702.75,
+          "calls_delta": 272.25,
+          "delta_pct_precomputed": -0.09572954843546168
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.05808080808080808,
+          "weekday_baseline_mean": 0.06603070735609284,
+          "delta_pct_points": -0.007949899275284764,
+          "kpi_label": "Breakage Rate – Address Collection",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 595.75,
+          "calls_delta": 379.25,
+          "delta_pct_precomputed": -0.120397003055143
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.014084507042253521,
+          "weekday_baseline_mean": 0.025400238932760832,
+          "delta_pct_points": -0.011315731890507311,
+          "kpi_label": "Breakage Rate – ERCOT Check",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 437.0,
+          "calls_delta": 538.0,
+          "delta_pct_precomputed": -0.4454970648292783
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.02734375,
+          "weekday_baseline_mean": 0.028863349465882836,
+          "delta_pct_points": -0.0015195994658828357,
+          "kpi_label": "Breakage Rate – Name Collection",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 390.75,
+          "calls_delta": 584.25,
+          "delta_pct_precomputed": -0.05264806385963758
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.05339805825242718,
+          "weekday_baseline_mean": 0.05348223465712508,
+          "delta_pct_points": -8.41764046978985e-05,
+          "kpi_label": "Breakage Rate – DOB Collection",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 311.25,
+          "calls_delta": 663.75,
+          "delta_pct_precomputed": -0.0015739133796026648
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0017894965167019675,
+          "delta_pct_points": -0.0017894965167019675,
+          "kpi_label": "Breakage Rate – Credit Check (No Hit)",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 279.75,
+          "calls_delta": 695.25,
+          "delta_pct_precomputed": -1.0
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.0045094039241093745,
+          "delta_pct_points": -0.0045094039241093745,
+          "kpi_label": "Breakage Rate – Credit Check (Hit)",
+          "current_calls": 975.0,
+          "weekday_baseline_calls": 279.75,
+          "calls_delta": 695.25,
+          "delta_pct_precomputed": -1.0
+        }
+      ]
+    }
+  }
+}

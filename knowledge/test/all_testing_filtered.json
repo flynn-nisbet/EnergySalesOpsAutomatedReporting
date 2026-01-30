@@ -1,0 +1,2586 @@
+{
+  "overall": {
+    "metrics": {
+      "gross_calls": {
+        "current": 8414.0,
+        "weekday_baseline_mean": 7499.0,
+        "delta_abs": 915.0,
+        "delta_pct": 0.122016,
+        "calls_delta": 915.0
+      },
+      "entered_compass_calls_count": {
+        "current": 6700.0,
+        "weekday_baseline_mean": 4658.0,
+        "delta_abs": 2042.0,
+        "delta_pct": 0.438386,
+        "calls_delta": 2042.0
+      },
+      "entered_compass_rate": {
+        "current": 0.796292,
+        "weekday_baseline_mean": 0.61751,
+        "delta_abs": 0.178782,
+        "delta_pct": 0.289521,
+        "calls_delta": 2042.0
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.554925,
+        "weekday_baseline_mean": 0.565609,
+        "delta_abs": -0.010684,
+        "delta_pct": -0.018889,
+        "calls_delta": 2042.0
+      },
+      "non_bot_compass_calls_count": {
+        "current": 2982.0,
+        "weekday_baseline_mean": 2026.5,
+        "delta_abs": 955.5,
+        "delta_pct": 0.471503,
+        "calls_delta": 955.5
+      },
+      "ivr_completed_calls": {
+        "current": 1478.0,
+        "weekday_baseline_mean": 1299.5,
+        "delta_abs": 178.5,
+        "delta_pct": 0.137361,
+        "calls_delta": 178.5
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.225539,
+        "weekday_baseline_mean": 1.143525,
+        "delta_abs": 0.082014,
+        "delta_pct": 0.07172,
+        "calls_delta": 68.25
+      },
+      "queue_calls": {
+        "current": 1206.0,
+        "weekday_baseline_mean": 1137.75,
+        "delta_abs": 68.25,
+        "delta_pct": 0.059987,
+        "calls_delta": 68.25
+      },
+      "queue_to_gross_rate": {
+        "current": 0.143333,
+        "weekday_baseline_mean": 0.151782,
+        "delta_abs": -0.00845,
+        "delta_pct": -0.055671,
+        "calls_delta": 915.0
+      },
+      "abandonment_rate": {
+        "current": 0.001664,
+        "weekday_baseline_mean": 0.002571,
+        "delta_abs": -0.000907,
+        "delta_pct": -0.352826,
+        "calls_delta": 68.25
+      },
+      "net_calls": {
+        "current": 1192.0,
+        "weekday_baseline_mean": 1118.25,
+        "delta_abs": 73.75,
+        "delta_pct": 0.065951,
+        "calls_delta": 73.75
+      },
+      "contact_rate": {
+        "current": 0.874161,
+        "weekday_baseline_mean": 0.851749,
+        "delta_abs": 0.022412,
+        "delta_pct": 0.026313,
+        "calls_delta": 73.75
+      },
+      "credit_rate": {
+        "current": 0.578859,
+        "weekday_baseline_mean": 0.533001,
+        "delta_abs": 0.045858,
+        "delta_pct": 0.086038,
+        "calls_delta": 73.75
+      },
+      "net_conversion_rate": {
+        "current": 0.357383,
+        "weekday_baseline_mean": 0.332925,
+        "delta_abs": 0.024458,
+        "delta_pct": 0.073463,
+        "calls_delta": 73.75
+      },
+      "orders": {
+        "current": 426.0,
+        "weekday_baseline_mean": 372.5,
+        "delta_abs": 53.5,
+        "delta_pct": 0.143624,
+        "calls_delta": 53.5
+      },
+      "transactional_conversion_rate": {
+        "current": 0.142857,
+        "weekday_baseline_mean": 0.189826,
+        "delta_abs": -0.046969,
+        "delta_pct": -0.247432,
+        "calls_delta": 53.5
+      },
+      "gross_conversion_rate": {
+        "current": 0.05063,
+        "weekday_baseline_mean": 0.049696,
+        "delta_abs": 0.000934,
+        "delta_pct": 0.018795,
+        "calls_delta": 915.0
+      },
+      "total_revenue": {
+        "current": 118622.8578,
+        "weekday_baseline_mean": 106356.8436,
+        "delta_abs": 12266.0142,
+        "delta_pct": 0.115329,
+        "calls_delta": 53.5
+      },
+      "revenue_per_order": {
+        "current": 278.457413,
+        "weekday_baseline_mean": 285.292162,
+        "delta_abs": -6.834749,
+        "delta_pct": -0.023957,
+        "calls_delta": 53.5
+      },
+      "revenue_per_net_call": {
+        "current": 99.51582,
+        "weekday_baseline_mean": 94.974745,
+        "delta_abs": 4.541076,
+        "delta_pct": 0.047814,
+        "calls_delta": 73.75
+      },
+      "revenue_per_gross_call": {
+        "current": 14.098272,
+        "weekday_baseline_mean": 14.188291,
+        "delta_abs": -0.090019,
+        "delta_pct": -0.006345,
+        "calls_delta": 915.0
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Address Collection",
+          "current": 0.1668,
+          "weekday_baseline_mean": 0.214657,
+          "delta_pct_points": -0.047858,
+          "calls_delta": 5572.25
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.130286,
+          "weekday_baseline_mean": 0.164496,
+          "delta_pct_points": -0.03421,
+          "calls_delta": 5956.5
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.059914,
+          "weekday_baseline_mean": 0.041678,
+          "delta_pct_points": 0.018236,
+          "calls_delta": 5461.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.14963,
+          "weekday_baseline_mean": 0.161057,
+          "delta_pct_points": -0.011428,
+          "calls_delta": 6143.25
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.845926,
+          "weekday_baseline_mean": 0.835516,
+          "delta_pct_points": 0.01041,
+          "calls_delta": 6143.25
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.778657,
+          "weekday_baseline_mean": 0.713917,
+          "delta_pct_points": 0.06474,
+          "calls_delta": 2042.0
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.042292,
+          "weekday_baseline_mean": 0.030856,
+          "delta_pct_points": 0.011436,
+          "calls_delta": 6098.5
+        }
+      ]
+    }
+  },
+  "bucket_aggregator": {
+    "metrics": {
+      "gross_calls": {
+        "current": 504.0,
+        "weekday_baseline_mean": 426.0,
+        "delta_abs": 78.0,
+        "delta_pct": 0.183099,
+        "calls_delta": 78.0
+      },
+      "entered_compass_calls_count": {
+        "current": 436.0,
+        "weekday_baseline_mean": 295.75,
+        "delta_abs": 140.25,
+        "delta_pct": 0.474218,
+        "calls_delta": 140.25
+      },
+      "entered_compass_rate": {
+        "current": 0.865079,
+        "weekday_baseline_mean": 0.689722,
+        "delta_abs": 0.175357,
+        "delta_pct": 0.254243,
+        "calls_delta": 140.25
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.444954,
+        "weekday_baseline_mean": 0.465738,
+        "delta_abs": -0.020784,
+        "delta_pct": -0.044626,
+        "calls_delta": 140.25
+      },
+      "non_bot_compass_calls_count": {
+        "current": 242.0,
+        "weekday_baseline_mean": 159.0,
+        "delta_abs": 83.0,
+        "delta_pct": 0.522013,
+        "calls_delta": 83.0
+      },
+      "ivr_completed_calls": {
+        "current": 171.0,
+        "weekday_baseline_mean": 121.0,
+        "delta_abs": 50.0,
+        "delta_pct": 0.413223,
+        "calls_delta": 50.0
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.103226,
+        "weekday_baseline_mean": 1.060282,
+        "delta_abs": 0.042944,
+        "delta_pct": 0.040503,
+        "calls_delta": 40.5
+      },
+      "queue_calls": {
+        "current": 155.0,
+        "weekday_baseline_mean": 114.5,
+        "delta_abs": 40.5,
+        "delta_pct": 0.353712,
+        "calls_delta": 40.5
+      },
+      "queue_to_gross_rate": {
+        "current": 0.30754,
+        "weekday_baseline_mean": 0.266472,
+        "delta_abs": 0.041067,
+        "delta_pct": 0.154115,
+        "calls_delta": 78.0
+      },
+      "abandonment_rate": {
+        "current": 0.003968,
+        "weekday_baseline_mean": 0.004097,
+        "delta_abs": -0.000128,
+        "delta_pct": -0.03134,
+        "calls_delta": 40.5
+      },
+      "net_calls": {
+        "current": 153.0,
+        "weekday_baseline_mean": 112.75,
+        "delta_abs": 40.25,
+        "delta_pct": 0.356984,
+        "calls_delta": 40.25
+      },
+      "net_conversion_rate": {
+        "current": 0.424837,
+        "weekday_baseline_mean": 0.442213,
+        "delta_abs": -0.017376,
+        "delta_pct": -0.039294,
+        "calls_delta": 40.25
+      },
+      "orders": {
+        "current": 65.0,
+        "weekday_baseline_mean": 49.75,
+        "delta_abs": 15.25,
+        "delta_pct": 0.306533,
+        "calls_delta": 15.25
+      },
+      "transactional_conversion_rate": {
+        "current": 0.268595,
+        "weekday_baseline_mean": 0.317325,
+        "delta_abs": -0.04873,
+        "delta_pct": -0.153564,
+        "calls_delta": 15.25
+      },
+      "gross_conversion_rate": {
+        "current": 0.128968,
+        "weekday_baseline_mean": 0.116362,
+        "delta_abs": 0.012606,
+        "delta_pct": 0.108336,
+        "calls_delta": 78.0
+      },
+      "total_revenue": {
+        "current": 19730.4153,
+        "weekday_baseline_mean": 15486.27885,
+        "delta_abs": 4244.13645,
+        "delta_pct": 0.274058,
+        "calls_delta": 15.25
+      },
+      "revenue_per_order": {
+        "current": 303.544851,
+        "weekday_baseline_mean": 310.983988,
+        "delta_abs": -7.439138,
+        "delta_pct": -0.023921,
+        "calls_delta": 15.25
+      },
+      "revenue_per_net_call": {
+        "current": 128.956963,
+        "weekday_baseline_mean": 137.784822,
+        "delta_abs": -8.827859,
+        "delta_pct": -0.06407,
+        "calls_delta": 40.25
+      },
+      "revenue_per_gross_call": {
+        "current": 39.147649,
+        "weekday_baseline_mean": 36.274594,
+        "delta_abs": 2.873056,
+        "delta_pct": 0.079203,
+        "calls_delta": 78.0
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Name Collection",
+          "current": 0.159292,
+          "weekday_baseline_mean": 0.116081,
+          "delta_pct_points": 0.043211,
+          "calls_delta": 357.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.166667,
+          "weekday_baseline_mean": 0.138052,
+          "delta_pct_points": 0.028615,
+          "calls_delta": 370.75
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.833333,
+          "weekday_baseline_mean": 0.859007,
+          "delta_pct_points": -0.025674,
+          "calls_delta": 370.75
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.16129,
+          "weekday_baseline_mean": 0.177355,
+          "delta_pct_points": -0.016065,
+          "calls_delta": 323.25
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.021277,
+          "weekday_baseline_mean": 0.036193,
+          "delta_pct_points": -0.014917,
+          "calls_delta": 367.75
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.607798,
+          "weekday_baseline_mean": 0.590199,
+          "delta_pct_points": 0.017599,
+          "calls_delta": 140.25
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.006452,
+          "weekday_baseline_mean": 0.02122,
+          "delta_pct_points": -0.014768,
+          "calls_delta": 323.25
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.021277,
+          "weekday_baseline_mean": 0.008793,
+          "delta_pct_points": 0.012483,
+          "calls_delta": 367.75
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.00885,
+          "weekday_baseline_mean": 0.019164,
+          "delta_pct_points": -0.010314,
+          "calls_delta": 357.0
+        }
+      ]
+    }
+  },
+  "bucket_brand_partner": {
+    "metrics": {
+      "gross_calls": {
+        "current": 1345.0,
+        "weekday_baseline_mean": 1331.75,
+        "delta_abs": 13.25,
+        "delta_pct": 0.009949,
+        "calls_delta": 13.25
+      },
+      "entered_compass_calls_count": {
+        "current": 1165.0,
+        "weekday_baseline_mean": 960.5,
+        "delta_abs": 204.5,
+        "delta_pct": 0.21291,
+        "calls_delta": 204.5
+      },
+      "entered_compass_rate": {
+        "current": 0.866171,
+        "weekday_baseline_mean": 0.716837,
+        "delta_abs": 0.149334,
+        "delta_pct": 0.208323,
+        "calls_delta": 204.5
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.201717,
+        "weekday_baseline_mean": 0.211583,
+        "delta_abs": -0.009867,
+        "delta_pct": -0.046633,
+        "calls_delta": 204.5
+      },
+      "non_bot_compass_calls_count": {
+        "current": 930.0,
+        "weekday_baseline_mean": 758.0,
+        "delta_abs": 172.0,
+        "delta_pct": 0.226913,
+        "calls_delta": 172.0
+      },
+      "ivr_completed_calls": {
+        "current": 647.0,
+        "weekday_baseline_mean": 597.25,
+        "delta_abs": 49.75,
+        "delta_pct": 0.083298,
+        "calls_delta": 49.75
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.301811,
+        "weekday_baseline_mean": 1.210772,
+        "delta_abs": 0.091038,
+        "delta_pct": 0.07519,
+        "calls_delta": 2.75
+      },
+      "queue_calls": {
+        "current": 497.0,
+        "weekday_baseline_mean": 494.25,
+        "delta_abs": 2.75,
+        "delta_pct": 0.005564,
+        "calls_delta": 2.75
+      },
+      "queue_to_gross_rate": {
+        "current": 0.369517,
+        "weekday_baseline_mean": 0.370328,
+        "delta_abs": -0.000811,
+        "delta_pct": -0.00219,
+        "calls_delta": 13.25
+      },
+      "abandonment_rate": {
+        "current": 0.004461,
+        "weekday_baseline_mean": 0.00992,
+        "delta_abs": -0.005459,
+        "delta_pct": -0.550322,
+        "calls_delta": 2.75
+      },
+      "net_calls": {
+        "current": 491.0,
+        "weekday_baseline_mean": 481.0,
+        "delta_abs": 10.0,
+        "delta_pct": 0.02079,
+        "calls_delta": 10.0
+      },
+      "contact_rate": {
+        "current": 0.875764,
+        "weekday_baseline_mean": 0.850859,
+        "delta_abs": 0.024905,
+        "delta_pct": 0.02927,
+        "calls_delta": 10.0
+      },
+      "credit_rate": {
+        "current": 0.478615,
+        "weekday_baseline_mean": 0.430846,
+        "delta_abs": 0.047769,
+        "delta_pct": 0.110873,
+        "calls_delta": 10.0
+      },
+      "net_conversion_rate": {
+        "current": 0.289206,
+        "weekday_baseline_mean": 0.267892,
+        "delta_abs": 0.021314,
+        "delta_pct": 0.079561,
+        "calls_delta": 10.0
+      },
+      "orders": {
+        "current": 142.0,
+        "weekday_baseline_mean": 129.5,
+        "delta_abs": 12.5,
+        "delta_pct": 0.096525,
+        "calls_delta": 12.5
+      },
+      "transactional_conversion_rate": {
+        "current": 0.152688,
+        "weekday_baseline_mean": 0.17116,
+        "delta_abs": -0.018472,
+        "delta_pct": -0.107924,
+        "calls_delta": 12.5
+      },
+      "gross_conversion_rate": {
+        "current": 0.105576,
+        "weekday_baseline_mean": 0.096597,
+        "delta_abs": 0.008979,
+        "delta_pct": 0.092954,
+        "calls_delta": 13.25
+      },
+      "total_revenue": {
+        "current": 36282.2983,
+        "weekday_baseline_mean": 36475.79145,
+        "delta_abs": -193.49315,
+        "delta_pct": -0.005305,
+        "calls_delta": 12.5
+      },
+      "revenue_per_order": {
+        "current": 255.509143,
+        "weekday_baseline_mean": 281.426529,
+        "delta_abs": -25.917386,
+        "delta_pct": -0.092093,
+        "calls_delta": 12.5
+      },
+      "revenue_per_net_call": {
+        "current": 73.894701,
+        "weekday_baseline_mean": 75.371511,
+        "delta_abs": -1.47681,
+        "delta_pct": -0.019594,
+        "calls_delta": 10.0
+      },
+      "revenue_per_gross_call": {
+        "current": 26.975686,
+        "weekday_baseline_mean": 27.208876,
+        "delta_abs": -0.23319,
+        "delta_pct": -0.00857,
+        "calls_delta": 13.25
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Address Collection",
+          "current": 0.172816,
+          "weekday_baseline_mean": 0.216629,
+          "delta_pct_points": -0.043814,
+          "calls_delta": 669.25
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.080775,
+          "weekday_baseline_mean": 0.05368,
+          "delta_pct_points": 0.027095,
+          "calls_delta": 590.75
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.145299,
+          "weekday_baseline_mean": 0.167958,
+          "delta_pct_points": -0.022658,
+          "calls_delta": 838.5
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.074169,
+          "weekday_baseline_mean": 0.063981,
+          "delta_pct_points": 0.010188,
+          "calls_delta": 805.75
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.440343,
+          "weekday_baseline_mean": 0.366566,
+          "delta_pct_points": 0.073777,
+          "calls_delta": 204.5
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.059233,
+          "weekday_baseline_mean": 0.046698,
+          "delta_pct_points": 0.012535,
+          "calls_delta": 903.0
+        }
+      ]
+    }
+  },
+  "bucket_competitor": {
+    "metrics": {
+      "gross_calls": {
+        "current": 317.0,
+        "weekday_baseline_mean": 248.25,
+        "delta_abs": 68.75,
+        "delta_pct": 0.276939,
+        "calls_delta": 68.75
+      },
+      "entered_compass_calls_count": {
+        "current": 256.0,
+        "weekday_baseline_mean": 160.5,
+        "delta_abs": 95.5,
+        "delta_pct": 0.595016,
+        "calls_delta": 95.5
+      },
+      "entered_compass_rate": {
+        "current": 0.807571,
+        "weekday_baseline_mean": 0.650597,
+        "delta_abs": 0.156974,
+        "delta_pct": 0.241277,
+        "calls_delta": 95.5
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.140625,
+        "weekday_baseline_mean": 0.205823,
+        "delta_abs": -0.065198,
+        "delta_pct": -0.316768,
+        "calls_delta": 95.5
+      },
+      "non_bot_compass_calls_count": {
+        "current": 220.0,
+        "weekday_baseline_mean": 127.0,
+        "delta_abs": 93.0,
+        "delta_pct": 0.732283,
+        "calls_delta": 93.0
+      },
+      "ivr_completed_calls": {
+        "current": 135.0,
+        "weekday_baseline_mean": 94.75,
+        "delta_abs": 40.25,
+        "delta_pct": 0.424802,
+        "calls_delta": 40.25
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.607143,
+        "weekday_baseline_mean": 1.225266,
+        "delta_abs": 0.381877,
+        "delta_pct": 0.311668,
+        "calls_delta": 6.75
+      },
+      "queue_calls": {
+        "current": 84.0,
+        "weekday_baseline_mean": 77.25,
+        "delta_abs": 6.75,
+        "delta_pct": 0.087379,
+        "calls_delta": 6.75
+      },
+      "queue_to_gross_rate": {
+        "current": 0.264984,
+        "weekday_baseline_mean": 0.311387,
+        "delta_abs": -0.046403,
+        "delta_pct": -0.14902,
+        "calls_delta": 68.75
+      },
+      "abandonment_rate": {
+        "current": 0.006309,
+        "weekday_baseline_mean": 0.002964,
+        "delta_abs": 0.003345,
+        "delta_pct": 1.128286,
+        "calls_delta": 6.75
+      },
+      "net_calls": {
+        "current": 82.0,
+        "weekday_baseline_mean": 76.5,
+        "delta_abs": 5.5,
+        "delta_pct": 0.071895,
+        "calls_delta": 5.5
+      },
+      "contact_rate": {
+        "current": 0.902439,
+        "weekday_baseline_mean": 0.859992,
+        "delta_abs": 0.042447,
+        "delta_pct": 0.049358,
+        "calls_delta": 5.5
+      },
+      "credit_rate": {
+        "current": 0.414634,
+        "weekday_baseline_mean": 0.46728,
+        "delta_abs": -0.052646,
+        "delta_pct": -0.112664,
+        "calls_delta": 5.5
+      },
+      "net_conversion_rate": {
+        "current": 0.231707,
+        "weekday_baseline_mean": 0.254994,
+        "delta_abs": -0.023286,
+        "delta_pct": -0.091321,
+        "calls_delta": 5.5
+      },
+      "orders": {
+        "current": 19.0,
+        "weekday_baseline_mean": 19.5,
+        "delta_abs": -0.5,
+        "delta_pct": -0.025641,
+        "calls_delta": -0.5
+      },
+      "transactional_conversion_rate": {
+        "current": 0.086364,
+        "weekday_baseline_mean": 0.156244,
+        "delta_abs": -0.06988,
+        "delta_pct": -0.447252,
+        "calls_delta": -0.5
+      },
+      "gross_conversion_rate": {
+        "current": 0.059937,
+        "weekday_baseline_mean": 0.078591,
+        "delta_abs": -0.018654,
+        "delta_pct": -0.237352,
+        "calls_delta": 68.75
+      },
+      "total_revenue": {
+        "current": 5176.3109,
+        "weekday_baseline_mean": 5737.219475,
+        "delta_abs": -560.908575,
+        "delta_pct": -0.097767,
+        "calls_delta": -0.5
+      },
+      "revenue_per_order": {
+        "current": 272.437416,
+        "weekday_baseline_mean": 294.038558,
+        "delta_abs": -21.601142,
+        "delta_pct": -0.073464,
+        "calls_delta": -0.5
+      },
+      "revenue_per_net_call": {
+        "current": 63.125743,
+        "weekday_baseline_mean": 75.141033,
+        "delta_abs": -12.015291,
+        "delta_pct": -0.159903,
+        "calls_delta": 5.5
+      },
+      "revenue_per_gross_call": {
+        "current": 16.329056,
+        "weekday_baseline_mean": 23.165525,
+        "delta_abs": -6.836468,
+        "delta_pct": -0.295114,
+        "calls_delta": 68.75
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.243243,
+          "weekday_baseline_mean": 0.160187,
+          "delta_pct_points": 0.083056,
+          "calls_delta": 225.25
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.756757,
+          "weekday_baseline_mean": 0.839813,
+          "delta_pct_points": -0.083056,
+          "calls_delta": 225.25
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.145161,
+          "weekday_baseline_mean": 0.205148,
+          "delta_pct_points": -0.059986,
+          "calls_delta": 208.25
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.057971,
+          "weekday_baseline_mean": 0.098406,
+          "delta_pct_points": -0.040435,
+          "calls_delta": 201.25
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.209524,
+          "weekday_baseline_mean": 0.240794,
+          "delta_pct_points": -0.03127,
+          "calls_delta": 176.5
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "DOB Collection",
+          "current": 0.148936,
+          "weekday_baseline_mean": 0.047471,
+          "delta_pct_points": 0.101465,
+          "calls_delta": 220.25
+        },
+        {
+          "reason": "Initial Question",
+          "current": 0.472656,
+          "weekday_baseline_mean": 0.403366,
+          "delta_pct_points": 0.06929,
+          "calls_delta": 95.5
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.133333,
+          "weekday_baseline_mean": 0.065442,
+          "delta_pct_points": 0.067891,
+          "calls_delta": 176.5
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.096774,
+          "weekday_baseline_mean": 0.047692,
+          "delta_pct_points": 0.049082,
+          "calls_delta": 208.25
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.066667,
+          "weekday_baseline_mean": 0.033935,
+          "delta_pct_points": 0.032731,
+          "calls_delta": 161.25
+        }
+      ]
+    }
+  },
+  "bucket_generic": {
+    "metrics": {
+      "gross_calls": {
+        "current": 412.0,
+        "weekday_baseline_mean": 385.75,
+        "delta_abs": 26.25,
+        "delta_pct": 0.068049,
+        "calls_delta": 26.25
+      },
+      "entered_compass_calls_count": {
+        "current": 349.0,
+        "weekday_baseline_mean": 278.25,
+        "delta_abs": 70.75,
+        "delta_pct": 0.254268,
+        "calls_delta": 70.75
+      },
+      "entered_compass_rate": {
+        "current": 0.847087,
+        "weekday_baseline_mean": 0.722035,
+        "delta_abs": 0.125053,
+        "delta_pct": 0.173195,
+        "calls_delta": 70.75
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.386819,
+        "weekday_baseline_mean": 0.368759,
+        "delta_abs": 0.018061,
+        "delta_pct": 0.048977,
+        "calls_delta": 70.75
+      },
+      "non_bot_compass_calls_count": {
+        "current": 214.0,
+        "weekday_baseline_mean": 176.0,
+        "delta_abs": 38.0,
+        "delta_pct": 0.215909,
+        "calls_delta": 38.0
+      },
+      "ivr_completed_calls": {
+        "current": 158.0,
+        "weekday_baseline_mean": 135.0,
+        "delta_abs": 23.0,
+        "delta_pct": 0.17037,
+        "calls_delta": 23.0
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.161765,
+        "weekday_baseline_mean": 1.072045,
+        "delta_abs": 0.08972,
+        "delta_pct": 0.08369,
+        "calls_delta": 9.0
+      },
+      "queue_calls": {
+        "current": 136.0,
+        "weekday_baseline_mean": 127.0,
+        "delta_abs": 9.0,
+        "delta_pct": 0.070866,
+        "calls_delta": 9.0
+      },
+      "queue_to_gross_rate": {
+        "current": 0.330097,
+        "weekday_baseline_mean": 0.331272,
+        "delta_abs": -0.001175,
+        "delta_pct": -0.003547,
+        "calls_delta": 26.25
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.000572,
+        "delta_abs": -0.000572,
+        "delta_pct": -1.0,
+        "calls_delta": 9.0
+      },
+      "net_calls": {
+        "current": 136.0,
+        "weekday_baseline_mean": 126.75,
+        "delta_abs": 9.25,
+        "delta_pct": 0.072978,
+        "calls_delta": 9.25
+      },
+      "contact_rate": {
+        "current": 0.919118,
+        "weekday_baseline_mean": 0.859246,
+        "delta_abs": 0.059872,
+        "delta_pct": 0.06968,
+        "calls_delta": 9.25
+      },
+      "credit_rate": {
+        "current": 0.742647,
+        "weekday_baseline_mean": 0.693727,
+        "delta_abs": 0.04892,
+        "delta_pct": 0.070518,
+        "calls_delta": 9.25
+      },
+      "net_conversion_rate": {
+        "current": 0.463235,
+        "weekday_baseline_mean": 0.451643,
+        "delta_abs": 0.011593,
+        "delta_pct": 0.025668,
+        "calls_delta": 9.25
+      },
+      "orders": {
+        "current": 63.0,
+        "weekday_baseline_mean": 57.25,
+        "delta_abs": 5.75,
+        "delta_pct": 0.100437,
+        "calls_delta": 5.75
+      },
+      "transactional_conversion_rate": {
+        "current": 0.294393,
+        "weekday_baseline_mean": 0.32995,
+        "delta_abs": -0.035557,
+        "delta_pct": -0.107766,
+        "calls_delta": 5.75
+      },
+      "gross_conversion_rate": {
+        "current": 0.152913,
+        "weekday_baseline_mean": 0.150481,
+        "delta_abs": 0.002432,
+        "delta_pct": 0.016159,
+        "calls_delta": 26.25
+      },
+      "total_revenue": {
+        "current": 17674.9763,
+        "weekday_baseline_mean": 15535.9001,
+        "delta_abs": 2139.0762,
+        "delta_pct": 0.137686,
+        "calls_delta": 5.75
+      },
+      "revenue_per_order": {
+        "current": 280.555179,
+        "weekday_baseline_mean": 270.97207,
+        "delta_abs": 9.583109,
+        "delta_pct": 0.035366,
+        "calls_delta": 5.75
+      },
+      "revenue_per_net_call": {
+        "current": 129.963061,
+        "weekday_baseline_mean": 122.138439,
+        "delta_abs": 7.824622,
+        "delta_pct": 0.064064,
+        "calls_delta": 9.25
+      },
+      "revenue_per_gross_call": {
+        "current": 42.900428,
+        "weekday_baseline_mean": 40.700453,
+        "delta_abs": 2.199975,
+        "delta_pct": 0.054053,
+        "calls_delta": 26.25
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Address Collection",
+          "current": 0.120805,
+          "weekday_baseline_mean": 0.216174,
+          "delta_pct_points": -0.095369,
+          "calls_delta": 223.5
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.120879,
+          "weekday_baseline_mean": 0.172415,
+          "delta_pct_points": -0.051536,
+          "calls_delta": 284.5
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.072,
+          "weekday_baseline_mean": 0.119952,
+          "delta_pct_points": -0.047952,
+          "calls_delta": 253.75
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.868132,
+          "weekday_baseline_mean": 0.827585,
+          "delta_pct_points": 0.040547,
+          "calls_delta": 284.5
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.126126,
+          "weekday_baseline_mean": 0.164618,
+          "delta_pct_points": -0.038492,
+          "calls_delta": 266.0
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.547278,
+          "weekday_baseline_mean": 0.504972,
+          "delta_pct_points": 0.042306,
+          "calls_delta": 70.75
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.04,
+          "weekday_baseline_mean": 0.015805,
+          "delta_pct_points": 0.024195,
+          "calls_delta": 253.75
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.013333,
+          "weekday_baseline_mean": 0.025886,
+          "delta_pct_points": -0.012553,
+          "calls_delta": 221.0
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.010989,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.010989,
+          "calls_delta": 284.5
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.010753,
+          "weekday_baseline_mean": 0.0,
+          "delta_pct_points": 0.010753,
+          "calls_delta": 282.25
+        }
+      ]
+    }
+  },
+  "bucket_nrg": {
+    "metrics": {
+      "gross_calls": {
+        "current": 22.0,
+        "weekday_baseline_mean": 49.25,
+        "delta_abs": -27.25,
+        "delta_pct": -0.553299,
+        "calls_delta": -27.25
+      },
+      "entered_compass_calls_count": {
+        "current": 18.0,
+        "weekday_baseline_mean": 33.25,
+        "delta_abs": -15.25,
+        "delta_pct": -0.458647,
+        "calls_delta": -15.25
+      },
+      "entered_compass_rate": {
+        "current": 0.818182,
+        "weekday_baseline_mean": 0.671238,
+        "delta_abs": 0.146944,
+        "delta_pct": 0.218914,
+        "calls_delta": -15.25
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.333333,
+        "weekday_baseline_mean": 0.290801,
+        "delta_abs": 0.042532,
+        "delta_pct": 0.14626,
+        "calls_delta": -15.25
+      },
+      "non_bot_compass_calls_count": {
+        "current": 12.0,
+        "weekday_baseline_mean": 23.25,
+        "delta_abs": -11.25,
+        "delta_pct": -0.483871,
+        "calls_delta": -11.25
+      },
+      "ivr_completed_calls": {
+        "current": 7.0,
+        "weekday_baseline_mean": 18.5,
+        "delta_abs": -11.5,
+        "delta_pct": -0.621622,
+        "calls_delta": -11.5
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.4,
+        "weekday_baseline_mean": 1.257487,
+        "delta_abs": 0.142513,
+        "delta_pct": 0.113332,
+        "calls_delta": -10.0
+      },
+      "queue_calls": {
+        "current": 5.0,
+        "weekday_baseline_mean": 15.0,
+        "delta_abs": -10.0,
+        "delta_pct": -0.666667,
+        "calls_delta": -10.0
+      },
+      "queue_to_gross_rate": {
+        "current": 0.227273,
+        "weekday_baseline_mean": 0.297307,
+        "delta_abs": -0.070034,
+        "delta_pct": -0.235562,
+        "calls_delta": -27.25
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.008197,
+        "delta_abs": -0.008197,
+        "delta_pct": -1.0,
+        "calls_delta": -10.0
+      },
+      "net_calls": {
+        "current": 5.0,
+        "weekday_baseline_mean": 14.5,
+        "delta_abs": -9.5,
+        "delta_pct": -0.655172,
+        "calls_delta": -9.5
+      },
+      "contact_rate": {
+        "current": 0.8,
+        "weekday_baseline_mean": 0.872928,
+        "delta_abs": -0.072928,
+        "delta_pct": -0.083544,
+        "calls_delta": -9.5
+      },
+      "credit_rate": {
+        "current": 0.6,
+        "weekday_baseline_mean": 0.306484,
+        "delta_abs": 0.293516,
+        "delta_pct": 0.957688,
+        "calls_delta": -9.5
+      },
+      "net_conversion_rate": {
+        "current": 0.4,
+        "weekday_baseline_mean": 0.206484,
+        "delta_abs": 0.193516,
+        "delta_pct": 0.937197,
+        "calls_delta": -9.5
+      },
+      "orders": {
+        "current": 2.0,
+        "weekday_baseline_mean": 3.0,
+        "delta_abs": -1.0,
+        "delta_pct": -0.333333,
+        "calls_delta": -1.0
+      },
+      "transactional_conversion_rate": {
+        "current": 0.166667,
+        "weekday_baseline_mean": 0.127938,
+        "delta_abs": 0.038729,
+        "delta_pct": 0.302714,
+        "calls_delta": -1.0
+      },
+      "gross_conversion_rate": {
+        "current": 0.090909,
+        "weekday_baseline_mean": 0.059617,
+        "delta_abs": 0.031293,
+        "delta_pct": 0.524898,
+        "calls_delta": -27.25
+      },
+      "total_revenue": {
+        "current": 482.5241,
+        "weekday_baseline_mean": 839.496425,
+        "delta_abs": -356.972325,
+        "delta_pct": -0.425222,
+        "calls_delta": -1.0
+      },
+      "revenue_per_order": {
+        "current": 241.26205,
+        "weekday_baseline_mean": 275.400114,
+        "delta_abs": -34.138064,
+        "delta_pct": -0.123958,
+        "calls_delta": -1.0
+      },
+      "revenue_per_net_call": {
+        "current": 96.50482,
+        "weekday_baseline_mean": 57.866978,
+        "delta_abs": 38.637842,
+        "delta_pct": 0.667701,
+        "calls_delta": -9.5
+      },
+      "revenue_per_gross_call": {
+        "current": 21.932914,
+        "weekday_baseline_mean": 16.707128,
+        "delta_abs": 5.225786,
+        "delta_pct": 0.312788,
+        "calls_delta": -27.25
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 1.0,
+          "weekday_baseline_mean": 0.77381,
+          "delta_pct_points": 0.22619,
+          "calls_delta": 10.75
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.22619,
+          "delta_pct_points": -0.22619,
+          "calls_delta": 10.75
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.120192,
+          "delta_pct_points": -0.120192,
+          "calls_delta": 8.75
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.166667,
+          "weekday_baseline_mean": 0.282529,
+          "delta_pct_points": -0.115863,
+          "calls_delta": 2.75
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.035173,
+          "delta_pct_points": -0.035173,
+          "calls_delta": 1.0
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.611111,
+          "weekday_baseline_mean": 0.438903,
+          "delta_pct_points": 0.172208,
+          "calls_delta": -15.25
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.081731,
+          "delta_pct_points": -0.081731,
+          "calls_delta": 8.75
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.166667,
+          "weekday_baseline_mean": 0.088816,
+          "delta_pct_points": 0.077851,
+          "calls_delta": 2.75
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.142857,
+          "weekday_baseline_mean": 0.065226,
+          "delta_pct_points": 0.077631,
+          "calls_delta": 1.0
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.058374,
+          "delta_pct_points": -0.058374,
+          "calls_delta": -0.5
+        }
+      ]
+    }
+  },
+  "bucket_natural": {
+    "metrics": {
+      "gross_calls": {
+        "current": 4071.0,
+        "weekday_baseline_mean": 3652.0,
+        "delta_abs": 419.0,
+        "delta_pct": 0.114732,
+        "calls_delta": 419.0
+      },
+      "entered_compass_calls_count": {
+        "current": 3393.0,
+        "weekday_baseline_mean": 2285.0,
+        "delta_abs": 1108.0,
+        "delta_pct": 0.484902,
+        "calls_delta": 1108.0
+      },
+      "entered_compass_rate": {
+        "current": 0.833456,
+        "weekday_baseline_mean": 0.621836,
+        "delta_abs": 0.21162,
+        "delta_pct": 0.340315,
+        "calls_delta": 1108.0
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.718833,
+        "weekday_baseline_mean": 0.775992,
+        "delta_abs": -0.057159,
+        "delta_pct": -0.07366,
+        "calls_delta": 1108.0
+      },
+      "non_bot_compass_calls_count": {
+        "current": 954.0,
+        "weekday_baseline_mean": 517.0,
+        "delta_abs": 437.0,
+        "delta_pct": 0.845261,
+        "calls_delta": 437.0
+      },
+      "ivr_completed_calls": {
+        "current": 223.0,
+        "weekday_baseline_mean": 178.75,
+        "delta_abs": 44.25,
+        "delta_pct": 0.247552,
+        "calls_delta": 44.25
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.109453,
+        "weekday_baseline_mean": 1.079153,
+        "delta_abs": 0.0303,
+        "delta_pct": 0.028077,
+        "calls_delta": 35.5
+      },
+      "queue_calls": {
+        "current": 201.0,
+        "weekday_baseline_mean": 165.5,
+        "delta_abs": 35.5,
+        "delta_pct": 0.214502,
+        "calls_delta": 35.5
+      },
+      "queue_to_gross_rate": {
+        "current": 0.049374,
+        "weekday_baseline_mean": 0.045474,
+        "delta_abs": 0.003899,
+        "delta_pct": 0.08575,
+        "calls_delta": 419.0
+      },
+      "abandonment_rate": {
+        "current": 0.000246,
+        "weekday_baseline_mean": 0.000265,
+        "delta_abs": -1.9e-05,
+        "delta_pct": -0.073233,
+        "calls_delta": 35.5
+      },
+      "net_calls": {
+        "current": 200.0,
+        "weekday_baseline_mean": 164.5,
+        "delta_abs": 35.5,
+        "delta_pct": 0.215805,
+        "calls_delta": 35.5
+      },
+      "credit_rate": {
+        "current": 0.695,
+        "weekday_baseline_mean": 0.666216,
+        "delta_abs": 0.028784,
+        "delta_pct": 0.043205,
+        "calls_delta": 35.5
+      },
+      "net_conversion_rate": {
+        "current": 0.45,
+        "weekday_baseline_mean": 0.418095,
+        "delta_abs": 0.031905,
+        "delta_pct": 0.076311,
+        "calls_delta": 35.5
+      },
+      "orders": {
+        "current": 90.0,
+        "weekday_baseline_mean": 68.75,
+        "delta_abs": 21.25,
+        "delta_pct": 0.309091,
+        "calls_delta": 21.25
+      },
+      "transactional_conversion_rate": {
+        "current": 0.09434,
+        "weekday_baseline_mean": 0.15216,
+        "delta_abs": -0.05782,
+        "delta_pct": -0.379997,
+        "calls_delta": 21.25
+      },
+      "gross_conversion_rate": {
+        "current": 0.022108,
+        "weekday_baseline_mean": 0.018855,
+        "delta_abs": 0.003252,
+        "delta_pct": 0.172494,
+        "calls_delta": 419.0
+      },
+      "total_revenue": {
+        "current": 27257.946,
+        "weekday_baseline_mean": 18791.0132,
+        "delta_abs": 8466.9328,
+        "delta_pct": 0.450584,
+        "calls_delta": 21.25
+      },
+      "revenue_per_order": {
+        "current": 302.866067,
+        "weekday_baseline_mean": 272.76512,
+        "delta_abs": 30.100947,
+        "delta_pct": 0.110355,
+        "calls_delta": 21.25
+      },
+      "revenue_per_net_call": {
+        "current": 136.28973,
+        "weekday_baseline_mean": 114.014453,
+        "delta_abs": 22.275277,
+        "delta_pct": 0.195372,
+        "calls_delta": 35.5
+      },
+      "revenue_per_gross_call": {
+        "current": 6.695639,
+        "weekday_baseline_mean": 5.152572,
+        "delta_abs": 1.543067,
+        "delta_pct": 0.299475,
+        "calls_delta": 419.0
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.866142,
+          "weekday_baseline_mean": 0.785476,
+          "delta_pct_points": 0.080666,
+          "calls_delta": 3311.0
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.133858,
+          "weekday_baseline_mean": 0.211235,
+          "delta_pct_points": -0.077377,
+          "calls_delta": 3311.0
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.100671,
+          "weekday_baseline_mean": 0.169373,
+          "delta_pct_points": -0.068702,
+          "calls_delta": 3288.25
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.154229,
+          "weekday_baseline_mean": 0.214646,
+          "delta_pct_points": -0.060417,
+          "calls_delta": 3233.0
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.015152,
+          "weekday_baseline_mean": 0.037262,
+          "delta_pct_points": -0.022111,
+          "calls_delta": 3307.0
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "ZIP Collection",
+          "current": 0.028436,
+          "weekday_baseline_mean": 0.055108,
+          "delta_pct_points": -0.026672,
+          "calls_delta": 3223.5
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.016985,
+          "delta_pct_points": -0.016985,
+          "calls_delta": 3273.5
+        },
+        {
+          "reason": "Initial Question",
+          "current": 0.934276,
+          "weekday_baseline_mean": 0.918137,
+          "delta_pct_points": 0.01614,
+          "calls_delta": 1108.0
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.029851,
+          "weekday_baseline_mean": 0.040829,
+          "delta_pct_points": -0.010979,
+          "calls_delta": 3233.0
+        }
+      ]
+    }
+  },
+  "bucket_other_bucket": {
+    "metrics": {
+      "gross_calls": {
+        "current": 1424.0,
+        "weekday_baseline_mean": 960.25,
+        "delta_abs": 463.75,
+        "delta_pct": 0.482947,
+        "calls_delta": 463.75
+      },
+      "entered_compass_calls_count": {
+        "current": 818.0,
+        "weekday_baseline_mean": 349.25,
+        "delta_abs": 468.75,
+        "delta_pct": 1.342162,
+        "calls_delta": 468.75
+      },
+      "entered_compass_rate": {
+        "current": 0.574438,
+        "weekday_baseline_mean": 0.360954,
+        "delta_abs": 0.213484,
+        "delta_pct": 0.591444,
+        "calls_delta": 468.75
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.688264,
+        "weekday_baseline_mean": 0.716664,
+        "delta_abs": -0.0284,
+        "delta_pct": -0.039628,
+        "calls_delta": 468.75
+      },
+      "non_bot_compass_calls_count": {
+        "current": 255.0,
+        "weekday_baseline_mean": 100.75,
+        "delta_abs": 154.25,
+        "delta_pct": 1.531017,
+        "calls_delta": 154.25
+      },
+      "ivr_completed_calls": {
+        "current": 52.0,
+        "weekday_baseline_mean": 34.5,
+        "delta_abs": 17.5,
+        "delta_pct": 0.507246,
+        "calls_delta": 17.5
+      },
+      "queue_to_ivr_rate": {
+        "current": 0.928571,
+        "weekday_baseline_mean": 0.861663,
+        "delta_abs": 0.066909,
+        "delta_pct": 0.077651,
+        "calls_delta": 16.0
+      },
+      "queue_calls": {
+        "current": 56.0,
+        "weekday_baseline_mean": 40.0,
+        "delta_abs": 16.0,
+        "delta_pct": 0.4,
+        "calls_delta": 16.0
+      },
+      "queue_to_gross_rate": {
+        "current": 0.039326,
+        "weekday_baseline_mean": 0.042033,
+        "delta_abs": -0.002707,
+        "delta_pct": -0.064409,
+        "calls_delta": 463.75
+      },
+      "abandonment_rate": {
+        "current": 0.001404,
+        "weekday_baseline_mean": 0.000712,
+        "delta_abs": 0.000692,
+        "delta_pct": 0.972568,
+        "calls_delta": 16.0
+      },
+      "net_calls": {
+        "current": 54.0,
+        "weekday_baseline_mean": 39.25,
+        "delta_abs": 14.75,
+        "delta_pct": 0.375796,
+        "calls_delta": 14.75
+      },
+      "credit_rate": {
+        "current": 0.62963,
+        "weekday_baseline_mean": 0.606642,
+        "delta_abs": 0.022988,
+        "delta_pct": 0.037894,
+        "calls_delta": 14.75
+      },
+      "net_conversion_rate": {
+        "current": 0.351852,
+        "weekday_baseline_mean": 0.37782,
+        "delta_abs": -0.025968,
+        "delta_pct": -0.06873,
+        "calls_delta": 14.75
+      },
+      "orders": {
+        "current": 19.0,
+        "weekday_baseline_mean": 14.75,
+        "delta_abs": 4.25,
+        "delta_pct": 0.288136,
+        "calls_delta": 4.25
+      },
+      "transactional_conversion_rate": {
+        "current": 0.07451,
+        "weekday_baseline_mean": 0.169863,
+        "delta_abs": -0.095353,
+        "delta_pct": -0.561353,
+        "calls_delta": 4.25
+      },
+      "gross_conversion_rate": {
+        "current": 0.013343,
+        "weekday_baseline_mean": 0.015588,
+        "delta_abs": -0.002245,
+        "delta_pct": -0.144023,
+        "calls_delta": 463.75
+      },
+      "total_revenue": {
+        "current": 5438.7317,
+        "weekday_baseline_mean": 4259.231425,
+        "delta_abs": 1179.500275,
+        "delta_pct": 0.276928,
+        "calls_delta": 4.25
+      },
+      "revenue_per_order": {
+        "current": 286.249037,
+        "weekday_baseline_mean": 288.641249,
+        "delta_abs": -2.392213,
+        "delta_pct": -0.008288,
+        "calls_delta": 4.25
+      },
+      "revenue_per_net_call": {
+        "current": 100.717254,
+        "weekday_baseline_mean": 109.142743,
+        "delta_abs": -8.425489,
+        "delta_pct": -0.077197,
+        "calls_delta": 14.75
+      },
+      "revenue_per_gross_call": {
+        "current": 3.819334,
+        "weekday_baseline_mean": 4.526653,
+        "delta_abs": -0.707319,
+        "delta_pct": -0.156257,
+        "calls_delta": 463.75
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Name Collection",
+          "current": 0.030303,
+          "weekday_baseline_mean": 0.142824,
+          "delta_pct_points": -0.112521,
+          "calls_delta": 794.25
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.22449,
+          "weekday_baseline_mean": 0.162009,
+          "delta_pct_points": 0.062481,
+          "calls_delta": 786.25
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.16129,
+          "weekday_baseline_mean": 0.11756,
+          "delta_pct_points": 0.043731,
+          "calls_delta": 799.25
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.057692,
+          "weekday_baseline_mean": 0.023038,
+          "delta_pct_points": 0.034654,
+          "calls_delta": 783.5
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.83871,
+          "weekday_baseline_mean": 0.872024,
+          "delta_pct_points": -0.033314,
+          "calls_delta": 799.25
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "ERCOT Check",
+          "current": 0.054054,
+          "weekday_baseline_mean": 0.008065,
+          "delta_pct_points": 0.04599,
+          "calls_delta": 792.0
+        },
+        {
+          "reason": "Initial Question",
+          "current": 0.93643,
+          "weekday_baseline_mean": 0.897737,
+          "delta_pct_points": 0.038693,
+          "calls_delta": 468.75
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.030594,
+          "delta_pct_points": -0.030594,
+          "calls_delta": 798.25
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.028272,
+          "delta_pct_points": -0.028272,
+          "calls_delta": 784.5
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.019231,
+          "weekday_baseline_mean": 0.006757,
+          "delta_pct_points": 0.012474,
+          "calls_delta": 783.5
+        }
+      ]
+    }
+  },
+  "bucket_pmax": {
+    "metrics": {
+      "gross_calls": {
+        "current": 200.0,
+        "weekday_baseline_mean": 261.0,
+        "delta_abs": -61.0,
+        "delta_pct": -0.233716,
+        "calls_delta": -61.0
+      },
+      "entered_compass_calls_count": {
+        "current": 169.0,
+        "weekday_baseline_mean": 174.0,
+        "delta_abs": -5.0,
+        "delta_pct": -0.028736,
+        "calls_delta": -5.0
+      },
+      "entered_compass_rate": {
+        "current": 0.845,
+        "weekday_baseline_mean": 0.66327,
+        "delta_abs": 0.18173,
+        "delta_pct": 0.273991,
+        "calls_delta": -5.0
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.491124,
+        "weekday_baseline_mean": 0.520246,
+        "delta_abs": -0.029122,
+        "delta_pct": -0.055977,
+        "calls_delta": -5.0
+      },
+      "non_bot_compass_calls_count": {
+        "current": 86.0,
+        "weekday_baseline_mean": 84.0,
+        "delta_abs": 2.0,
+        "delta_pct": 0.02381,
+        "calls_delta": 2.0
+      },
+      "ivr_completed_calls": {
+        "current": 46.0,
+        "weekday_baseline_mean": 61.5,
+        "delta_abs": -15.5,
+        "delta_pct": -0.252033,
+        "calls_delta": -15.5
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.121951,
+        "weekday_baseline_mean": 1.082077,
+        "delta_abs": 0.039874,
+        "delta_pct": 0.03685,
+        "calls_delta": -16.0
+      },
+      "queue_calls": {
+        "current": 41.0,
+        "weekday_baseline_mean": 57.0,
+        "delta_abs": -16.0,
+        "delta_pct": -0.280702,
+        "calls_delta": -16.0
+      },
+      "queue_to_gross_rate": {
+        "current": 0.205,
+        "weekday_baseline_mean": 0.220925,
+        "delta_abs": -0.015925,
+        "delta_pct": -0.072084,
+        "calls_delta": -61.0
+      },
+      "abandonment_rate": {
+        "current": 0.0,
+        "weekday_baseline_mean": 0.002725,
+        "delta_abs": -0.002725,
+        "delta_pct": -1.0,
+        "calls_delta": -16.0
+      },
+      "net_calls": {
+        "current": 41.0,
+        "weekday_baseline_mean": 56.25,
+        "delta_abs": -15.25,
+        "delta_pct": -0.271111,
+        "calls_delta": -15.25
+      },
+      "contact_rate": {
+        "current": 0.829268,
+        "weekday_baseline_mean": 0.893876,
+        "delta_abs": -0.064607,
+        "delta_pct": -0.072278,
+        "calls_delta": -15.25
+      },
+      "credit_rate": {
+        "current": 0.707317,
+        "weekday_baseline_mean": 0.718367,
+        "delta_abs": -0.01105,
+        "delta_pct": -0.015382,
+        "calls_delta": -15.25
+      },
+      "net_conversion_rate": {
+        "current": 0.414634,
+        "weekday_baseline_mean": 0.442093,
+        "delta_abs": -0.027459,
+        "delta_pct": -0.062111,
+        "calls_delta": -15.25
+      },
+      "orders": {
+        "current": 17.0,
+        "weekday_baseline_mean": 24.75,
+        "delta_abs": -7.75,
+        "delta_pct": -0.313131,
+        "calls_delta": -7.75
+      },
+      "transactional_conversion_rate": {
+        "current": 0.197674,
+        "weekday_baseline_mean": 0.302799,
+        "delta_abs": -0.105124,
+        "delta_pct": -0.347175,
+        "calls_delta": -7.75
+      },
+      "gross_conversion_rate": {
+        "current": 0.085,
+        "weekday_baseline_mean": 0.094068,
+        "delta_abs": -0.009068,
+        "delta_pct": -0.0964,
+        "calls_delta": -61.0
+      },
+      "total_revenue": {
+        "current": 5446.4602,
+        "weekday_baseline_mean": 7828.4493,
+        "delta_abs": -2381.9891,
+        "delta_pct": -0.304273,
+        "calls_delta": -7.75
+      },
+      "revenue_per_order": {
+        "current": 320.380012,
+        "weekday_baseline_mean": 311.403039,
+        "delta_abs": 8.976972,
+        "delta_pct": 0.028828,
+        "calls_delta": -7.75
+      },
+      "revenue_per_net_call": {
+        "current": 132.840493,
+        "weekday_baseline_mean": 139.598581,
+        "delta_abs": -6.758088,
+        "delta_pct": -0.048411,
+        "calls_delta": -15.25
+      },
+      "revenue_per_gross_call": {
+        "current": 27.232301,
+        "weekday_baseline_mean": 29.590886,
+        "delta_abs": -2.358585,
+        "delta_pct": -0.079706,
+        "calls_delta": -61.0
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Name Collection",
+          "current": 0.09375,
+          "weekday_baseline_mean": 0.159117,
+          "delta_pct_points": -0.065367,
+          "calls_delta": 128.75
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.142857,
+          "weekday_baseline_mean": 0.201302,
+          "delta_pct_points": -0.058444,
+          "calls_delta": 110.75
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.028571,
+          "weekday_baseline_mean": 0.086927,
+          "delta_pct_points": -0.058355,
+          "calls_delta": 124.25
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.071429,
+          "weekday_baseline_mean": 0.013258,
+          "delta_pct_points": 0.058171,
+          "calls_delta": 135.75
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.045455,
+          "weekday_baseline_mean": 0.012148,
+          "delta_pct_points": 0.033306,
+          "calls_delta": 111.25
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.727811,
+          "weekday_baseline_mean": 0.638471,
+          "delta_pct_points": 0.089339,
+          "calls_delta": -5.0
+        },
+        {
+          "reason": "ERCOT Check",
+          "current": 0.057143,
+          "weekday_baseline_mean": 0.01398,
+          "delta_pct_points": 0.043163,
+          "calls_delta": 124.25
+        },
+        {
+          "reason": "Moving / Switching",
+          "current": 0.021739,
+          "weekday_baseline_mean": 0.03786,
+          "delta_pct_points": -0.016121,
+          "calls_delta": 107.5
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.03125,
+          "weekday_baseline_mean": 0.01701,
+          "delta_pct_points": 0.01424,
+          "calls_delta": 128.75
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.02381,
+          "weekday_baseline_mean": 0.034642,
+          "delta_pct_points": -0.010832,
+          "calls_delta": 110.75
+        }
+      ]
+    }
+  },
+  "bucket_utility": {
+    "metrics": {
+      "gross_calls": {
+        "current": 119.0,
+        "weekday_baseline_mean": 184.75,
+        "delta_abs": -65.75,
+        "delta_pct": -0.355886,
+        "calls_delta": -65.75
+      },
+      "entered_compass_calls_count": {
+        "current": 96.0,
+        "weekday_baseline_mean": 121.5,
+        "delta_abs": -25.5,
+        "delta_pct": -0.209877,
+        "calls_delta": -25.5
+      },
+      "entered_compass_rate": {
+        "current": 0.806723,
+        "weekday_baseline_mean": 0.655001,
+        "delta_abs": 0.151721,
+        "delta_pct": 0.231635,
+        "calls_delta": -25.5
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.28125,
+        "weekday_baseline_mean": 0.324998,
+        "delta_abs": -0.043748,
+        "delta_pct": -0.134609,
+        "calls_delta": -25.5
+      },
+      "non_bot_compass_calls_count": {
+        "current": 69.0,
+        "weekday_baseline_mean": 81.5,
+        "delta_abs": -12.5,
+        "delta_pct": -0.153374,
+        "calls_delta": -12.5
+      },
+      "ivr_completed_calls": {
+        "current": 39.0,
+        "weekday_baseline_mean": 58.25,
+        "delta_abs": -19.25,
+        "delta_pct": -0.330472,
+        "calls_delta": -19.25
+      },
+      "queue_calls": {
+        "current": 31.0,
+        "weekday_baseline_mean": 47.25,
+        "delta_abs": -16.25,
+        "delta_pct": -0.343915,
+        "calls_delta": -16.25
+      },
+      "queue_to_gross_rate": {
+        "current": 0.260504,
+        "weekday_baseline_mean": 0.256038,
+        "delta_abs": 0.004467,
+        "delta_pct": 0.017445,
+        "calls_delta": -65.75
+      },
+      "abandonment_rate": {
+        "current": 0.008403,
+        "weekday_baseline_mean": 0.003031,
+        "delta_abs": 0.005373,
+        "delta_pct": 1.772806,
+        "calls_delta": -16.25
+      },
+      "net_calls": {
+        "current": 30.0,
+        "weekday_baseline_mean": 46.75,
+        "delta_abs": -16.75,
+        "delta_pct": -0.358289,
+        "calls_delta": -16.75
+      },
+      "contact_rate": {
+        "current": 0.8,
+        "weekday_baseline_mean": 0.713403,
+        "delta_abs": 0.086597,
+        "delta_pct": 0.121385,
+        "calls_delta": -16.75
+      },
+      "credit_rate": {
+        "current": 0.366667,
+        "weekday_baseline_mean": 0.205522,
+        "delta_abs": 0.161145,
+        "delta_pct": 0.784077,
+        "calls_delta": -16.75
+      },
+      "net_conversion_rate": {
+        "current": 0.3,
+        "weekday_baseline_mean": 0.113443,
+        "delta_abs": 0.186557,
+        "delta_pct": 1.644507,
+        "calls_delta": -16.75
+      },
+      "orders": {
+        "current": 9.0,
+        "weekday_baseline_mean": 5.25,
+        "delta_abs": 3.75,
+        "delta_pct": 0.714286,
+        "calls_delta": 3.75
+      },
+      "transactional_conversion_rate": {
+        "current": 0.130435,
+        "weekday_baseline_mean": 0.064917,
+        "delta_abs": 0.065518,
+        "delta_pct": 1.009258,
+        "calls_delta": 3.75
+      },
+      "gross_conversion_rate": {
+        "current": 0.07563,
+        "weekday_baseline_mean": 0.028088,
+        "delta_abs": 0.047542,
+        "delta_pct": 1.692621,
+        "calls_delta": -65.75
+      },
+      "total_revenue": {
+        "current": 2770.133,
+        "weekday_baseline_mean": 1403.463375,
+        "delta_abs": 1366.669625,
+        "delta_pct": 0.973784,
+        "calls_delta": 3.75
+      },
+      "revenue_per_order": {
+        "current": 307.792556,
+        "weekday_baseline_mean": 260.047646,
+        "delta_abs": 47.74491,
+        "delta_pct": 0.183601,
+        "calls_delta": 3.75
+      },
+      "revenue_per_net_call": {
+        "current": 92.337767,
+        "weekday_baseline_mean": 30.179419,
+        "delta_abs": 62.158347,
+        "delta_pct": 2.059627,
+        "calls_delta": -16.75
+      },
+      "revenue_per_gross_call": {
+        "current": 23.278429,
+        "weekday_baseline_mean": 7.458146,
+        "delta_abs": 15.820283,
+        "delta_pct": 2.121209,
+        "calls_delta": -65.75
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "DOB Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.075179,
+          "delta_pct_points": -0.075179,
+          "calls_delta": 73.5
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.193548,
+          "weekday_baseline_mean": 0.259372,
+          "delta_pct_points": -0.065824,
+          "calls_delta": 47.0
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.15,
+          "weekday_baseline_mean": 0.195259,
+          "delta_pct_points": -0.045259,
+          "calls_delta": 66.75
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.9375,
+          "weekday_baseline_mean": 0.913889,
+          "delta_pct_points": 0.023611,
+          "calls_delta": 76.75
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.0625,
+          "weekday_baseline_mean": 0.086111,
+          "delta_pct_points": -0.023611,
+          "calls_delta": 76.75
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.59375,
+          "weekday_baseline_mean": 0.50859,
+          "delta_pct_points": 0.08516,
+          "calls_delta": -25.5
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.138889,
+          "weekday_baseline_mean": 0.097698,
+          "delta_pct_points": 0.041191,
+          "calls_delta": 43.5
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.024386,
+          "delta_pct_points": -0.024386,
+          "calls_delta": 47.0
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.0,
+          "weekday_baseline_mean": 0.023864,
+          "delta_pct_points": -0.023864,
+          "calls_delta": 66.75
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.058824,
+          "weekday_baseline_mean": 0.079921,
+          "delta_pct_points": -0.021097,
+          "calls_delta": 73.5
+        }
+      ]
+    }
+  },
+  "site": {
+    "metrics": {
+      "gross_calls": {
+        "current": 6487.0,
+        "weekday_baseline_mean": 5733.0,
+        "delta_abs": 754.0,
+        "delta_pct": 0.131519,
+        "calls_delta": 754.0
+      },
+      "entered_compass_calls_count": {
+        "current": 5361.0,
+        "weekday_baseline_mean": 3644.25,
+        "delta_abs": 1716.75,
+        "delta_pct": 0.471085,
+        "calls_delta": 1716.75
+      },
+      "entered_compass_rate": {
+        "current": 0.826422,
+        "weekday_baseline_mean": 0.631379,
+        "delta_abs": 0.195043,
+        "delta_pct": 0.308917,
+        "calls_delta": 1716.75
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.661444,
+        "weekday_baseline_mean": 0.685016,
+        "delta_abs": -0.023572,
+        "delta_pct": -0.034411,
+        "calls_delta": 1716.75
+      },
+      "non_bot_compass_calls_count": {
+        "current": 1815.0,
+        "weekday_baseline_mean": 1148.0,
+        "delta_abs": 667.0,
+        "delta_pct": 0.58101,
+        "calls_delta": 667.0
+      },
+      "ivr_completed_calls": {
+        "current": 687.0,
+        "weekday_baseline_mean": 630.5,
+        "delta_abs": 56.5,
+        "delta_pct": 0.089611,
+        "calls_delta": 56.5
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.152685,
+        "weekday_baseline_mean": 1.085946,
+        "delta_abs": 0.066738,
+        "delta_pct": 0.061456,
+        "calls_delta": 14.5
+      },
+      "queue_calls": {
+        "current": 596.0,
+        "weekday_baseline_mean": 581.5,
+        "delta_abs": 14.5,
+        "delta_pct": 0.024936,
+        "calls_delta": 14.5
+      },
+      "queue_to_gross_rate": {
+        "current": 0.091876,
+        "weekday_baseline_mean": 0.101845,
+        "delta_abs": -0.009969,
+        "delta_pct": -0.097886,
+        "calls_delta": 754.0
+      },
+      "abandonment_rate": {
+        "current": 0.000771,
+        "weekday_baseline_mean": 0.000941,
+        "delta_abs": -0.00017,
+        "delta_pct": -0.180607,
+        "calls_delta": 14.5
+      },
+      "net_calls": {
+        "current": 591.0,
+        "weekday_baseline_mean": 576.0,
+        "delta_abs": 15.0,
+        "delta_pct": 0.026042,
+        "calls_delta": 15.0
+      },
+      "credit_rate": {
+        "current": 0.700508,
+        "weekday_baseline_mean": 0.655238,
+        "delta_abs": 0.045269,
+        "delta_pct": 0.069088,
+        "calls_delta": 15.0
+      },
+      "net_conversion_rate": {
+        "current": 0.448393,
+        "weekday_baseline_mean": 0.419316,
+        "delta_abs": 0.029076,
+        "delta_pct": 0.069343,
+        "calls_delta": 15.0
+      },
+      "orders": {
+        "current": 265.0,
+        "weekday_baseline_mean": 241.5,
+        "delta_abs": 23.5,
+        "delta_pct": 0.097308,
+        "calls_delta": 23.5
+      },
+      "transactional_conversion_rate": {
+        "current": 0.146006,
+        "weekday_baseline_mean": 0.224124,
+        "delta_abs": -0.078119,
+        "delta_pct": -0.348552,
+        "calls_delta": 23.5
+      },
+      "gross_conversion_rate": {
+        "current": 0.040851,
+        "weekday_baseline_mean": 0.042287,
+        "delta_abs": -0.001437,
+        "delta_pct": -0.03397,
+        "calls_delta": 754.0
+      },
+      "total_revenue": {
+        "current": 77740.117,
+        "weekday_baseline_mean": 69706.13435,
+        "delta_abs": 8033.98265,
+        "delta_pct": 0.115255,
+        "calls_delta": 23.5
+      },
+      "revenue_per_order": {
+        "current": 293.358932,
+        "weekday_baseline_mean": 288.351512,
+        "delta_abs": 5.007421,
+        "delta_pct": 0.017366,
+        "calls_delta": 23.5
+      },
+      "revenue_per_net_call": {
+        "current": 131.539961,
+        "weekday_baseline_mean": 120.88168,
+        "delta_abs": 10.658281,
+        "delta_pct": 0.088171,
+        "calls_delta": 15.0
+      },
+      "revenue_per_gross_call": {
+        "current": 11.983986,
+        "weekday_baseline_mean": 12.206449,
+        "delta_abs": -0.222463,
+        "delta_pct": -0.018225,
+        "calls_delta": 754.0
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Address Collection",
+          "current": 0.14791,
+          "weekday_baseline_mean": 0.194022,
+          "delta_pct_points": -0.046112,
+          "calls_delta": 4782.75
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.126984,
+          "weekday_baseline_mean": 0.163683,
+          "delta_pct_points": -0.036699,
+          "calls_delta": 5053.75
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.867725,
+          "weekday_baseline_mean": 0.832975,
+          "delta_pct_points": 0.034749,
+          "calls_delta": 5053.75
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.124183,
+          "weekday_baseline_mean": 0.158046,
+          "delta_pct_points": -0.033863,
+          "calls_delta": 4965.75
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.012887,
+          "weekday_baseline_mean": 0.036553,
+          "delta_pct_points": -0.023667,
+          "calls_delta": 5037.0
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.871852,
+          "weekday_baseline_mean": 0.821394,
+          "delta_pct_points": 0.050459,
+          "calls_delta": 1716.75
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.025723,
+          "weekday_baseline_mean": 0.036927,
+          "delta_pct_points": -0.011204,
+          "calls_delta": 4782.75
+        }
+      ]
+    }
+  },
+  "serp": {
+    "metrics": {
+      "gross_calls": {
+        "current": 1927.0,
+        "weekday_baseline_mean": 1766.0,
+        "delta_abs": 161.0,
+        "delta_pct": 0.091166,
+        "calls_delta": 161.0
+      },
+      "entered_compass_calls_count": {
+        "current": 1339.0,
+        "weekday_baseline_mean": 1013.75,
+        "delta_abs": 325.25,
+        "delta_pct": 0.320838,
+        "calls_delta": 325.25
+      },
+      "entered_compass_rate": {
+        "current": 0.694862,
+        "weekday_baseline_mean": 0.571008,
+        "delta_abs": 0.123855,
+        "delta_pct": 0.216906,
+        "calls_delta": 325.25
+      },
+      "any_bot_call_rate_compass": {
+        "current": 0.128454,
+        "weekday_baseline_mean": 0.135129,
+        "delta_abs": -0.006675,
+        "delta_pct": -0.049397,
+        "calls_delta": 325.25
+      },
+      "non_bot_compass_calls_count": {
+        "current": 1167.0,
+        "weekday_baseline_mean": 878.5,
+        "delta_abs": 288.5,
+        "delta_pct": 0.328401,
+        "calls_delta": 288.5
+      },
+      "ivr_completed_calls": {
+        "current": 791.0,
+        "weekday_baseline_mean": 669.0,
+        "delta_abs": 122.0,
+        "delta_pct": 0.182362,
+        "calls_delta": 122.0
+      },
+      "queue_to_ivr_rate": {
+        "current": 1.296721,
+        "weekday_baseline_mean": 1.204315,
+        "delta_abs": 0.092406,
+        "delta_pct": 0.076729,
+        "calls_delta": 53.75
+      },
+      "queue_calls": {
+        "current": 610.0,
+        "weekday_baseline_mean": 556.25,
+        "delta_abs": 53.75,
+        "delta_pct": 0.096629,
+        "calls_delta": 53.75
+      },
+      "queue_to_gross_rate": {
+        "current": 0.316554,
+        "weekday_baseline_mean": 0.314533,
+        "delta_abs": 0.002021,
+        "delta_pct": 0.006425,
+        "calls_delta": 161.0
+      },
+      "abandonment_rate": {
+        "current": 0.00467,
+        "weekday_baseline_mean": 0.008609,
+        "delta_abs": -0.003938,
+        "delta_pct": -0.457472,
+        "calls_delta": 53.75
+      },
+      "net_calls": {
+        "current": 601.0,
+        "weekday_baseline_mean": 542.25,
+        "delta_abs": 58.75,
+        "delta_pct": 0.108345,
+        "calls_delta": 58.75
+      },
+      "contact_rate": {
+        "current": 0.873544,
+        "weekday_baseline_mean": 0.831057,
+        "delta_abs": 0.042487,
+        "delta_pct": 0.051124,
+        "calls_delta": 58.75
+      },
+      "credit_rate": {
+        "current": 0.459235,
+        "weekday_baseline_mean": 0.40233,
+        "delta_abs": 0.056904,
+        "delta_pct": 0.141437,
+        "calls_delta": 58.75
+      },
+      "net_conversion_rate": {
+        "current": 0.267887,
+        "weekday_baseline_mean": 0.240428,
+        "delta_abs": 0.027459,
+        "delta_pct": 0.114207,
+        "calls_delta": 58.75
+      },
+      "orders": {
+        "current": 161.0,
+        "weekday_baseline_mean": 131.0,
+        "delta_abs": 30.0,
+        "delta_pct": 0.229008,
+        "calls_delta": 30.0
+      },
+      "transactional_conversion_rate": {
+        "current": 0.137961,
+        "weekday_baseline_mean": 0.149351,
+        "delta_abs": -0.01139,
+        "delta_pct": -0.076263,
+        "calls_delta": 30.0
+      },
+      "gross_conversion_rate": {
+        "current": 0.08355,
+        "weekday_baseline_mean": 0.073666,
+        "delta_abs": 0.009884,
+        "delta_pct": 0.134174,
+        "calls_delta": 161.0
+      },
+      "total_revenue": {
+        "current": 45458.6959,
+        "weekday_baseline_mean": 36650.70925,
+        "delta_abs": 8807.98665,
+        "delta_pct": 0.240322,
+        "calls_delta": 30.0
+      },
+      "revenue_per_order": {
+        "current": 282.352148,
+        "weekday_baseline_mean": 279.872228,
+        "delta_abs": 2.47992,
+        "delta_pct": 0.008861,
+        "calls_delta": 30.0
+      },
+      "revenue_per_net_call": {
+        "current": 75.638429,
+        "weekday_baseline_mean": 67.281217,
+        "delta_abs": 8.357212,
+        "delta_pct": 0.124213,
+        "calls_delta": 58.75
+      },
+      "revenue_per_gross_call": {
+        "current": 23.590397,
+        "weekday_baseline_mean": 20.613,
+        "delta_abs": 2.977397,
+        "delta_pct": 0.144443,
+        "calls_delta": 161.0
+      }
+    },
+    "breakdowns": {
+      "queue_rate": [
+        {
+          "reason": "Address Collection",
+          "current": 0.18542,
+          "weekday_baseline_mean": 0.23639,
+          "delta_pct_points": -0.050971,
+          "calls_delta": 789.5
+        },
+        {
+          "reason": "Name Collection",
+          "current": 0.137019,
+          "weekday_baseline_mean": 0.171251,
+          "delta_pct_points": -0.034232,
+          "calls_delta": 990.75
+        },
+        {
+          "reason": "ZIP Collection",
+          "current": 0.086093,
+          "weekday_baseline_mean": 0.056733,
+          "delta_pct_points": 0.02936,
+          "calls_delta": 697.75
+        },
+        {
+          "reason": "Credit Check (No Hit)",
+          "current": 0.178451,
+          "weekday_baseline_mean": 0.157877,
+          "delta_pct_points": 0.020574,
+          "calls_delta": 1089.5
+        },
+        {
+          "reason": "Credit Check (Hit)",
+          "current": 0.818182,
+          "weekday_baseline_mean": 0.838606,
+          "delta_pct_points": -0.020424,
+          "calls_delta": 1089.5
+        }
+      ],
+      "breakage_rate": [
+        {
+          "reason": "Initial Question",
+          "current": 0.405527,
+          "weekday_baseline_mean": 0.327036,
+          "delta_pct_points": 0.078491,
+          "calls_delta": 325.25
+        },
+        {
+          "reason": "DOB Collection",
+          "current": 0.075362,
+          "weekday_baseline_mean": 0.048464,
+          "delta_pct_points": 0.026898,
+          "calls_delta": 1061.5
+        },
+        {
+          "reason": "Address Collection",
+          "current": 0.077655,
+          "weekday_baseline_mean": 0.058251,
+          "delta_pct_points": 0.019404,
+          "calls_delta": 789.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Core dependencies used by kpiGenerator.ipynb
+tqdm>=4.66

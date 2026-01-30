@@ -1,3 +1,0 @@
-# Core dependencies used by kpiGenerator.ipynb
-pyspark>=3.4,<4
-tqdm>=4.66

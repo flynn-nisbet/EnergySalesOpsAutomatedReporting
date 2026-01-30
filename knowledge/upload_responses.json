@@ -1,0 +1,90 @@
+{
+  "/Workspace/Users/fnisbet@redventures.com/EnergySalesOpsAutomatedReporting/knowledge/businessContext/Functional Onboarding Notes.docx": {
+    "id": "file-Xoxgkvbv5NBJyZTRWdzKTW",
+    "bytes": 23099,
+    "created_at": 1769784468,
+    "filename": "Functional Onboarding Notes.docx",
+    "object": "file",
+    "purpose": "assistants",
+    "status": "processed",
+    "expires_at": null,
+    "status_details": null
+  },
+  "/Workspace/Users/fnisbet@redventures.com/EnergySalesOpsAutomatedReporting/knowledge/businessContext/Glossary.docx": {
+    "id": "file-FLwXXMfKiSooTHeVvegDMb",
+    "bytes": 186135,
+    "created_at": 1769784469,
+    "filename": "Glossary.docx",
+    "object": "file",
+    "purpose": "assistants",
+    "status": "processed",
+    "expires_at": null,
+    "status_details": null
+  },
+  "/Workspace/Users/fnisbet@redventures.com/EnergySalesOpsAutomatedReporting/knowledge/businessContext/Weekly Performance Check-In.docx": {
+    "id": "file-LDQL2qxMuZRuGXKrVX8Zgq",
+    "bytes": 612694,
+    "created_at": 1769784470,
+    "filename": "Weekly Performance Check-In.docx",
+    "object": "file",
+    "purpose": "assistants",
+    "status": "processed",
+    "expires_at": null,
+    "status_details": null
+  },
+  "/Workspace/Users/fnisbet@redventures.com/EnergySalesOpsAutomatedReporting/knowledge/businessContext/BusinessExplanation.docx": {
+    "id": "file-MraqArGckXzDWVzud88Fgj",
+    "bytes": 1010690,
+    "created_at": 1769784473,
+    "filename": "BusinessExplanation.docx",
+    "object": "file",
+    "purpose": "assistants",
+    "status": "processed",
+    "expires_at": null,
+    "status_details": null
+  },
+  "/Workspace/Users/fnisbet@redventures.com/EnergySalesOpsAutomatedReporting/knowledge/businessContext/VF Audit Overview.docx": {
+    "id": "file-VgiyRMBbL9kCvUUg5bzRt6",
+    "bytes": 1306035,
+    "created_at": 1769784474,
+    "filename": "VF Audit Overview.docx",
+    "object": "file",
+    "purpose": "assistants",
+    "status": "processed",
+    "expires_at": null,
+    "status_details": null
+  },
+  "/Workspace/Users/fnisbet@redventures.com/EnergySalesOpsAutomatedReporting/knowledge/businessContext/Journey.docx": {
+    "id": "file-8VroGUCkEynHvBbn6FsSne",
+    "bytes": 232088,
+    "created_at": 1769784475,
+    "filename": "Journey.docx",
+    "object": "file",
+    "purpose": "assistants",
+    "status": "processed",
+    "expires_at": null,
+    "status_details": null
+  },
+  "/Workspace/Users/fnisbet@redventures.com/EnergySalesOpsAutomatedReporting/knowledge/businessContext/JourneysVoiceContext.pdf": {
+    "id": "file-3MKpNcdmKt62YgKVDJd25A",
+    "bytes": 8184054,
+    "created_at": 1769784477,
+    "filename": "JourneysVoiceContext.pdf",
+    "object": "file",
+    "purpose": "assistants",
+    "status": "processed",
+    "expires_at": null,
+    "status_details": null
+  },
+  "/Workspace/Users/fnisbet@redventures.com/EnergySalesOpsAutomatedReporting/knowledge/businessContext/CompassVoiceContext.pdf": {
+    "id": "file-TCuaR4ut1wKFLAfnpHSmh3",
+    "bytes": 5755027,
+    "created_at": 1769784480,
+    "filename": "CompassVoiceContext.pdf",
+    "object": "file",
+    "purpose": "assistants",
+    "status": "processed",
+    "expires_at": null,
+    "status_details": null
+  }
+}
